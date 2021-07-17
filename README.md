@@ -8,15 +8,12 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-My topic/interest is in aerospace engineering, specifically in aerodynamics. 
-I want to learn more about computational fluid dynamics and perform flow simulations for airplane designs.
-A specific research topic I am interested in aerodynamics is about methods controlling the flow of air over an airplane's wing
-to delay the transition between laminar-to-turbulent flow. One of the proven effective method for flow control is by using plasma actuators.
-The motivation behind this research is in sustainable aviation. By reducing the drag over airplane's wings, it would improve the aerodynamics of an airplane and help increases its fuel efficiency.
-A study by Schrauf(2005) estimates that the overall drag of a current civil airliner could reduced by up to 16% if the flow over 40% of the wings and tails plane was laminar. 
-According to the International Civil Aviation Organization's (ICAO) annual global statistics, the number of global flights reached 38.9 millions in 2019.
-Data from recent years show that the airline industry is responsible for 12% of transportation CO2 emissions.
-With the airplane travels becoming more essential and more widely used, this research could help fight climate change by reducing fuel consumption of each airplane flight.
+I am interested in this dataset because I would like to explore the engineering job market and make a profile of the company.
+As an engineering student, I will enter the job market in the future, and this analytics project could help me practice my skills in researching about jobs and companies. 
+I would like to discover, interpret, and communicate this dataset to show which job on average has the highest or lowest salary or rating level.
+I could also make a profile of the company from the data and show the correlation between the company and the job salary and rating level.
+A user-interface dashboard would be a very interesting and useful concept to explore with this dataset. Many services like this already exist on popular job listing websites like Glassdoor, Indeed, and Linkedin job board.
+A dashboard like this provides its users with a convenient search tool to find a particular job and organize them from their salary, location, type of industry they are in, and the company.
 
 ## Describe your dataset in about 150-200 words
 
@@ -26,9 +23,8 @@ The dataset consists of the job title, estimated salary, rating level of this jo
 the headquarter locations of the company, size of the company, the company's revenue, the company competitors, and the founded date of the company. 
 The dataset also categorizes the company by the type of company it is, its indutry, and sector it is in. 
 This dataset was intented to help people better find the job and company that is most suited from their set of skills and personal preferences.
-This dataset can also provides a visualize of the correlations between the job salary, the job rating level, and the company.
+This dataset can also provides a visualization of the correlations between the job salary, the job rating level, and the company.
 This dataset was last updated in 2020. 
-
 
 ## Team Members
 
@@ -36,15 +32,10 @@ This dataset was last updated in 2020.
 
 ## References
 
-Schrauf(2005)
-https://www.researchgate.net/publication/285732875_Status_and_perspectives_of_laminar_flow
-
-ICAO statistics:
-https://www.icao.int/annual-report-2019/Pages/the-world-of-air-transport-in-2019.aspx
-
-Airline industry CO2 emissions:
-https://www.atag.org/facts-figures.html
-https://davidsuzuki.org/what-you-can-do/air-travel-climate-change/
+Job board:
+https://www.linkedin.com/jobs/search/?geoId=101174742&keywords=&location=Canada&sortBy=R
+https://ca.indeed.com/jobs?q=Engineer&l=Canada
+https://www.glassdoor.ca/Job/canada-engineer-jobs-SRCH_IL.0,6_IN3_KO7,15.htm
 
 Dataset source link:
 https://www.kaggle.com/andrewmvd/data-engineer-jobs
