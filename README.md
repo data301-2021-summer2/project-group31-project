@@ -32,6 +32,9 @@ This dataset was last updated in 2020.
 
 ## References
 
+About a rating level of a job:
+https://www.shrm.org/resourcesandtools/hr-topics/compensation/pages/job-leveling.aspx
+
 Job board:
 https://www.linkedin.com/jobs/search/?geoId=101174742&keywords=&location=Canada&sortBy=R
 https://ca.indeed.com/jobs?q=Engineer&l=Canada
