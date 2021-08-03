@@ -1,6 +1,5 @@
 # Group 31 - {Data bank on Data engineering jobs in the US}
 
-- Your title can change over time.
 
 ## Milestones
 
@@ -8,10 +7,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-I am interested in this dataset because I would like to explore the engineering job market and make a profile of the company.
-As an engineering student, I will enter the job market in the future, and this analytics project could help me practice my skills in researching about jobs and companies. 
-I would like to discover, interpret, and communicate this dataset to show which job on average has the highest or lowest salary or rating level.
-I could also make a profile of the company from the data and show the correlation between the company and the job salary and rating level.
+I am interested in this dataset because I would like to explore the US job market in the data engineering field.
+As an engineering student, I will enter the job market in the future, and this analytics project could help me practice my skills in researching about jobs.
+I would like to discover, interpret, and communicate this dataset amd show if it is better to work in a small company than a large company. job on average has the highest or lowest salary or rating level.
+I also want to look at the correlation between the company size and the job salary and company rating level.
 A user-interface dashboard would be a very interesting and useful concept to explore with this dataset. Many services like this already exist on popular job listing websites like Glassdoor, Indeed, and Linkedin job board.
 A dashboard like this provides its users with a convenient search tool to find a particular job and organize them from their salary, location, type of industry they are in, and the company.
 
