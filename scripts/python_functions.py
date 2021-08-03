@@ -14,11 +14,12 @@ def load_and_process(path):
         # Method Chain 2   
         # Replace unknown data in Company Rating and Size Column 
 
-    df1 = (pd.DataFrame(data=df)
-           .loc[lambda x: x["Company Rating"]==-1]
-           .replace(-1,0.0)
-          )
-    df.update(df1)
+        # Decided to kept -1 as -1 because when ploting with "Unknown" the plot is not ordered also changing it to -1 to 0 wouldn't also work because there might be a company rating with 0
+#     df1 = (pd.DataFrame(data=df)
+#            .loc[lambda x: x["Company Rating"]==-1]
+#            .replace(-1,"Unknown")
+#           )
+#     df.update(df1)
 
     df1 = (pd.DataFrame(data=df)
            .loc[lambda x: x["Company Size"]=="-1"]
@@ -59,6 +60,7 @@ def load_and_process(path):
          )
     df2=df2*1000
     df.update(df2)
+    df["Average Salary"] = (df["Maximum Salary"]+df["Minimum Salary"])/2
 
 
         # Cut down data size to only include Data Engineer, Software Engineer, and Big Data Engineer job title
