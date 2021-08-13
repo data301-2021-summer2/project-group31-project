@@ -9,12 +9,6 @@ def load_and_process(path):
           .drop(['Job Description',"Easy Apply","Competitors","Industry","Sector","Revenue","Type of ownership","Headquarters","Founded"],axis='columns') 
           .rename(columns = {"Rating" : "Company Rating","Size":"Company Size"})
          )
-    
-    df_replace = (pd.DataFrame(data=df)
-           .loc[lambda x: x["Company Rating"]==-1]
-           .replace(-1,0)
-          )
-    df.update(df_replace)
 
     df_replace = (pd.DataFrame(data=df)
            .loc[lambda x: x["Company Size"]=="-1"]
@@ -60,7 +54,10 @@ def load_and_process(path):
     
     df["Average Salary"] = (df["Maximum Salary"]+df["Minimum Salary"])/2
     
-
+    df["Maximum Salary"] = df["Maximum Salary"].astype(int)
+    df["Minimum Salary"] = df["Minimum Salary"].astype(int)
+    df["Average Salary"] = df["Average Salary"].astype(int)
+    
 # Cut down data size to only include Data Engineer, Software Engineer, and Big Data Engineer job title
      
     DataEng_data = df.loc[df["Job Title"]== "Data Engineer"] #469 rows
@@ -69,6 +66,7 @@ def load_and_process(path):
     frames = [DataEng_data,SoftEng_data,BigDataEng_data]
     df = pd.concat(frames)
     df = df.reset_index()
+    df = df.drop('index',axis='columns')
 
 # Caterogized company size column
         
@@ -80,4 +78,5 @@ def load_and_process(path):
     df["Company Size"].loc[df["Company Size"] == "5001 to 10000 employees"] = "Large"
     df["Company Size"].loc[df["Company Size"] == "10000+ employees"] = "Large"
     
-    return df  
+    
+    return df
