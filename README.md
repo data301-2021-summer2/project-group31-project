@@ -7,7 +7,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 [Milestone 1](analysis/milestone1.ipynb)
 
-[Milestone_2&3_Research_Analysis](analysis/EDA&Research Analysis Notebook.ipynb)
+[Milestone_2&3_Research_Analysis](analysis/EDA&Research_Analysis_Notebook.ipynb)
 
 ![Milestone 4](images/Dashboard_Image.png)
 
