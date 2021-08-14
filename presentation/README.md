@@ -1,2 +1,2 @@
 # Presentation
-This directory is for presentation materials for the dataset.
+This directory is for the dashboard presentation and a [video](https://youtu.be/-_ljF0P27Fk) highlighting the dashboard.
