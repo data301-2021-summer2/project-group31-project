@@ -1,636 +1,636 @@
-Job Title,Company Rating,Company Name,Location,Company Size,Minimum Salary,Maximum Salary,Average Salary
-Data Engineer,4.5,Sagence,"New York, NY",Small,80000,150000,115000
-Data Engineer,3.7,GNY Insurance Companies,"New York, NY",Medium,80000,150000,115000
-Data Engineer,4.2,NJF Global Holdings,"New York, NY",Small,80000,150000,115000
-Data Engineer,3.8,Citadel,"New York, NY",Large,80000,150000,115000
-Data Engineer,4.4,PulsePoint,"New York, NY",Small,80000,150000,115000
-Data Engineer,3.8,Spotify,"New York, NY",Large,80000,150000,115000
-Data Engineer,4.9,Freestar,"New York, NY",Small,80000,150000,115000
-Data Engineer,4.7,Cockroach Labs,"New York, NY",Small,80000,150000,115000
-Data Engineer,2.5,FourSquare,"New York, NY",Medium,80000,150000,115000
-Data Engineer,3.7,GNY Insurance Companies,"New York, NY",Medium,73000,94000,83500
-Data Engineer,3.5,Daily Harvest,"New York, NY",Small,73000,94000,83500
-Data Engineer,3.9,Point72,"New York, NY",Large,73000,94000,83500
-Data Engineer,4.7,SADA,"New York, NY",Small,73000,94000,83500
-Data Engineer,3.5,Larsen & Toubro Infotech Limited,"New York, NY",Large,73000,94000,83500
-Data Engineer,3.8,"Peloton Interactive, Inc.","New York, NY",Large,73000,94000,83500
-Data Engineer,-1.0,Aptino,"New York, NY",Small,73000,94000,83500
-Data Engineer,3.9,Columbia University,"New York, NY",Large,73000,94000,83500
-Data Engineer,2.7,Bark & Co,"New York, NY",Medium,73000,94000,83500
-Data Engineer,3.8,New York Times,"New York, NY",Large,73000,94000,83500
-Data Engineer,3.1,Glossier,"New York, NY",Medium,73000,94000,83500
-Data Engineer,3.8,CommonBond,"New York, NY",Small,73000,94000,83500
-Data Engineer,3.9,Stash,"New York, NY",Small,73000,94000,83500
-Data Engineer,4.4,Mark43,"New York, NY",Small,73000,94000,83500
-Data Engineer,4.7,B12,"New York, NY",Small,73000,94000,83500
-Data Engineer,-1.0,Clear Street,"New York, NY",Small,73000,94000,83500
-Data Engineer,1.0,Tiro,"New York, NY",Medium,73000,94000,83500
-Data Engineer,4.7,Seated,"New York, NY",Small,73000,94000,83500
-Data Engineer,-1.0,Thinknum,"New York, NY",Unknown,73000,94000,83500
-Data Engineer,3.9,Amazon,"New York, NY",Large,73000,94000,83500
-Data Engineer,-1.0,The Princeton Group,"New York, NY",Small,73000,94000,83500
-Data Engineer,4.2,NJF Global Holdings,"New York, NY",Small,85000,154000,119500
-Data Engineer,-1.0,Pinto,"New York, NY",Small,85000,154000,119500
-Data Engineer,3.9,Millennium,"New York, NY",Large,85000,154000,119500
-Data Engineer,3.8,Bloomberg,"New York, NY",Large,85000,154000,119500
-Data Engineer,3.6,Nasdaq,"New York, NY",Large,85000,154000,119500
-Data Engineer,3.8,National Basketball Association,"Secaucus, NJ",Large,85000,154000,119500
-Data Engineer,-1.0,Attentive,"New York, NY",Small,85000,154000,119500
-Data Engineer,4.1,Datadog,"New York, NY",Large,85000,154000,119500
-Data Engineer,-1.0,Proinfy,"Parsippany, NJ",Unknown,85000,154000,119500
-Data Engineer,5.0,Hudson River Trading,"New York, NY",Medium,85000,154000,119500
-Data Engineer,5.0,LaBine & Associates,"New York, NY",Small,85000,154000,119500
-Data Engineer,3.6,New York Life Insurance Co,"New York, NY",Large,85000,154000,119500
-Data Engineer,4.3,BrainPOP,"New York, NY",Small,85000,154000,119500
-Data Engineer,3.2,Quadpay,"New York, NY",Small,85000,154000,119500
-Data Engineer,4.3,Caserta,"New York, NY",Small,85000,154000,119500
-Data Engineer,3.8,Columbia University Medical Center,"New York, NY",Large,85000,154000,119500
-Data Engineer,3.4,Blue State,"New York, NY",Small,85000,154000,119500
-Data Engineer,4.4,Atyeti,"New York, NY",Medium,85000,154000,119500
-Data Engineer,3.5,American Modern Insurance Group,"New York, NY",Unknown,85000,154000,119500
-Data Engineer,2.6,Transit Wireless (USD),"New York, NY",Small,84000,113000,98500
-Data Engineer,3.9,Silver Search Inc,"New York, NY",Unknown,84000,113000,98500
-Data Engineer,5.0,Millennium Partners,"New York, NY",Small,84000,113000,98500
-Data Engineer,2.9,Novantas,"New York, NY",Medium,84000,113000,98500
-Data Engineer,-1.0,Entera,"New York, NY",Unknown,84000,113000,98500
-Data Engineer,2.8,Stadium Goods,"New York, NY",Small,84000,113000,98500
-Data Engineer,3.9,FanDuel,"New York, NY",Large,84000,113000,98500
-Data Engineer,3.7,Munich Re,"New York, NY",Large,84000,113000,98500
-Data Engineer,4.0,Ladders,"New York, NY",Small,84000,113000,98500
-Data Engineer,3.9,J.P. Morgan,"Newark, NJ",Large,84000,113000,98500
-Data Engineer,3.7,WisdomTree Investments Inc,"New York, NY",Medium,84000,113000,98500
-Data Engineer,3.3,ERGO Group,"New York, NY",Medium,84000,113000,98500
-Data Engineer,-1.0,Pierce Technology Corp,"New York, NY",Unknown,84000,113000,98500
-Data Engineer,4.0,Progyny,"New York, NY",Small,84000,113000,98500
-Data Engineer,4.6,"Conch Technologies, Inc","New York, NY",Small,84000,113000,98500
-Data Engineer,3.4,Business Insider,"New York, NY",Medium,84000,113000,98500
-Data Engineer,5.0,Resource 1,"Newark, NJ",Small,84000,113000,98500
-Data Engineer,4.8,TelTech,"New York, NY",Small,84000,113000,98500
-Data Engineer,4.7,Fivesky,"New York, NY",Small,84000,113000,98500
-Data Engineer,4.4,INTURN,"New York, NY",Small,57000,75000,66000
-Data Engineer,-1.0,"Lokavant, Inc.","New York, NY",Small,57000,75000,66000
-Data Engineer,3.9,ApTask,"New York, NY",Medium,57000,75000,66000
-Data Engineer,3.2,AllianceBernstein,"New York, NY",Large,57000,75000,66000
-Data Engineer,-1.0,Mosaic Group,"New York, NY",Small,57000,75000,66000
-Data Engineer,2.2,Motivate,"New York, NY",Small,57000,75000,66000
-Data Engineer,2.9,Docker,"New York, NY",Medium,57000,75000,66000
-Data Engineer,-1.0,Resource1,"Newark, NJ",Small,57000,75000,66000
-Data Engineer,4.5,Simon Data,"New York, NY",Small,57000,75000,66000
-Data Engineer,5.0,EDO,"New York, NY",Unknown,57000,75000,66000
-Data Engineer,-1.0,Stash,"New York, NY",Unknown,57000,75000,66000
-Data Engineer,3.5,CGI,"Bloomfield, NJ",Large,57000,75000,66000
-Data Engineer,2.0,"T-REX Group, Inc.","New York, NY",Small,57000,75000,66000
-Data Engineer,3.2,Virtual Clarity,"New York, NY",Small,57000,75000,66000
-Data Engineer,-1.0,JSR Tech Consulting,"Newark, NJ",Small,57000,75000,66000
-Data Engineer,3.5,Youngsoft,"New York, NY",Small,57000,75000,66000
-Data Engineer,5.0,ingenium.agency,"New York, NY",Small,57000,75000,66000
-Data Engineer,3.8,Citadel,"New York, NY",Large,105000,121000,113000
-Data Engineer,4.4,PulsePoint,"New York, NY",Small,105000,121000,113000
-Data Engineer,4.2,Centraprise,"New York, NY",Small,105000,121000,113000
-Data Engineer,-1.0,Atom Finance,"New York, NY",Unknown,105000,121000,113000
-Data Engineer,2.4,Infoway Software,"New York, NY",Small,105000,121000,113000
-Data Engineer,-1.0,Greater New York Mutual Insurance Companies (GNY),"New York, NY",Unknown,105000,121000,113000
-Data Engineer,5.0,Quantum Search Partners,"New York, NY",Small,105000,121000,113000
-Data Engineer,-1.0,Simondata,"New York, NY",Unknown,105000,121000,113000
-Data Engineer,-1.0,Spartoi Group,"New York, NY",Small,105000,121000,113000
-Data Engineer,-1.0,MLWIZ Team,"New York, NY",Small,105000,121000,113000
-Data Engineer,3.2,Hagerty Consulting,"New York, NY",Small,105000,121000,113000
-Data Engineer,3.5,Russell Tobin & Associates,"New York, NY",Small,105000,121000,113000
-Data Engineer,4.5,Global Atlantic Financial Group,"New York, NY",Large,105000,121000,113000
-Data Engineer,3.9,Diverse Lynx,"New York, NY",Large,105000,121000,113000
-Data Engineer,5.0,SIMON Markets LLC,"New York, NY",Small,105000,121000,113000
-Data Engineer,4.8,Boyle Software,"New York, NY",Small,105000,121000,113000
-Data Engineer,3.9,"Madison Logic, Inc.","New York, NY",Small,105000,121000,113000
-Data Engineer,3.5,Andiamo,"Newark, NJ",Medium,105000,121000,113000
-Data Engineer,4.4,Vydia,"Holmdel, NJ",Small,105000,121000,113000
-Data Engineer,-1.0,Carter Wellington Limited,"New York, NY",Unknown,105000,121000,113000
-Data Engineer,4.7,"Resource Logistics, Inc.","New York, NY",Small,105000,121000,113000
-Data Engineer,-1.0,Skiltrek,"New York, NY",Small,105000,121000,113000
-Data Engineer,5.0,Averity,"New York, NY",Small,105000,121000,113000
-Data Engineer,3.3,Cross River Bank,"Fort Lee, NJ",Medium,105000,121000,113000
-Data Engineer,-1.0,ingenium.agency,"New York, NY",Unknown,105000,121000,113000
-Data Engineer,3.2,Allied World Assurance,"New York, NY",Large,105000,121000,113000
-Data Engineer,-1.0,"J Harlan Group, LLC","New York, NY",Small,92000,117000,104500
-Data Engineer,3.8,Apex Systems,"New York, NY",Large,92000,117000,104500
-Data Engineer,4.0,"Lorven Technologies, Inc.","New York, NY",Small,92000,117000,104500
-Data Engineer,3.9,Phyton Talent Advisors,"New York, NY",Small,92000,117000,104500
-Data Engineer,5.0,Albert (CA),"Los Angeles, CA",Small,88000,136000,112000
-Data Engineer,4.4,Direct Agents,"Culver City, CA",Small,88000,136000,112000
-Data Engineer,4.7,SADA,"Los Angeles, CA",Small,88000,136000,112000
-Data Engineer,4.5,CrowdRise,"Los Angeles, CA",Medium,88000,136000,112000
-Data Engineer,3.3,Age of Learning,"Glendale, CA",Large,88000,136000,112000
-Data Engineer,3.1,The Honest Company,"Los Angeles, CA",Medium,88000,136000,112000
-Data Engineer,4.0,Idealab,"Pasadena, CA",Large,88000,136000,112000
-Data Engineer,4.2,Sumeru,"Los Angeles, CA",Medium,88000,136000,112000
-Data Engineer,3.6,J. Paul Getty Trust,"Los Angeles, CA",Large,88000,136000,112000
-Data Engineer,3.8,Mondo,"Los Angeles, CA",Small,88000,136000,112000
-Data Engineer,3.9,BlackLine,"Woodland Hills, CA",Large,88000,136000,112000
-Data Engineer,3.3,ZEFR,"Marina del Rey, CA",Medium,88000,136000,112000
-Data Engineer,3.9,Warner Bros. Entertainment,"Burbank, CA",Large,88000,136000,112000
-Data Engineer,3.4,NTT DATA,"Anaheim, CA",Large,88000,136000,112000
-Data Engineer,5.0,Tapcart,"Santa Monica, CA",Small,88000,136000,112000
-Data Engineer,4.2,VMware,"Los Angeles, CA",Large,88000,136000,112000
-Data Engineer,3.8,NBCUniversal,"Universal City, CA",Large,88000,136000,112000
-Data Engineer,5.0,Sense360,"Culver City, CA",Small,88000,136000,112000
-Data Engineer,2.7,TrueCar,"Santa Monica, CA",Large,88000,136000,112000
-Data Engineer,4.4,Direct Agents,"Culver City, CA",Small,95000,167000,131000
-Data Engineer,4.7,SADA,"Los Angeles, CA",Small,95000,167000,131000
-Data Engineer,-1.0,codeSpark,"Pasadena, CA",Small,95000,167000,131000
-Data Engineer,3.9,Cedars-Sinai,"Los Angeles, CA",Large,95000,167000,131000
-Data Engineer,4.4,Direct Agents,"Culver City, CA",Small,95000,167000,131000
-Data Engineer,4.4,Mt. San Antonio College,"Walnut, CA",Large,95000,167000,131000
-Data Engineer,4.0,Prosum,"Los Angeles, CA",Medium,95000,167000,131000
-Data Engineer,3.9,"Analog Devices, Inc.","Wilmington, CA",Large,95000,167000,131000
-Data Engineer,5.0,ingenium.agency,"Los Angeles, CA",Small,95000,167000,131000
-Data Engineer,4.7,TEEMA,"Los Angeles, CA",Medium,95000,167000,131000
-Data Engineer,3.7,NortonLifeLock,"Culver City, CA",Large,95000,167000,131000
-Data Engineer,4.8,Agilisium LLC,"Los Angeles, CA",Medium,95000,167000,131000
-Data Engineer,-1.0,ingenium.agency,"Los Angeles, CA",Unknown,95000,167000,131000
-Data Engineer,4.2,CyberCoders,"Pasadena, CA",Medium,95000,167000,131000
-Data Engineer,-1.0,EvolvInc,"Burbank, CA",Small,95000,167000,131000
-Data Engineer,3.6,ViacomCBS,"Los Angeles, CA",Large,95000,167000,131000
-Data Engineer,2.0,Ledgent Technology,"Los Angeles, CA",Large,95000,167000,131000
-Data Engineer,3.7,Turner Broadcasting,"Burbank, CA",Large,95000,167000,131000
-Data Engineer,-1.0,Trovetechs Inc,"Universal City, CA",Unknown,95000,167000,131000
-Data Engineer,-1.0,Bloomstaff,"Los Angeles, CA",Unknown,95000,167000,131000
-Data Engineer,-1.0,Bloomstaff,"Los Angeles, CA",Unknown,95000,167000,131000
-Data Engineer,3.3,Age of Learning,"Glendale, CA",Large,79000,146000,112500
-Data Engineer,3.1,Techstyle Group LLC,"El Segundo, CA",Large,79000,146000,112500
-Data Engineer,-1.0,GradTests (gradtests.com.au),"Los Angeles, CA",Unknown,79000,146000,112500
-Data Engineer,3.7,mPulse Mobile,"Encino, CA",Small,79000,146000,112500
-Data Engineer,-1.0,Sense 360,"Culver City, CA",Unknown,79000,146000,112500
-Data Engineer,1.6,"Management Decisions, Inc.","Los Angeles, CA",Small,79000,146000,112500
-Data Engineer,-1.0,Eleven Recruiting - CHURN,"El Segundo, CA",Unknown,79000,146000,112500
-Data Engineer,-1.0,BlackLine Systems,"Woodland Hills, CA",Small,79000,146000,112500
-Data Engineer,4.0,Lorven Technologies Inc,"Burbank, CA",Small,79000,146000,112500
-Data Engineer,-1.0,TechStyle Fashion Group,"El Segundo, CA",Unknown,79000,146000,112500
-Data Engineer,3.6,J. Paul Getty Trust,"Los Angeles, CA",Large,93000,106000,99500
-Data Engineer,3.9,BlackLine,"Woodland Hills, CA",Large,93000,106000,99500
-Data Engineer,5.0,WB Technology,"Burbank, CA",Unknown,93000,106000,99500
-Data Engineer,-1.0,Eleven Recruiting - CHURN,"El Segundo, CA",Small,93000,106000,99500
-Data Engineer,4.2,CyberCoders,"El Segundo, CA",Medium,94000,164000,129000
-Data Engineer,3.9,Cedars-Sinai,"Los Angeles, CA",Large,94000,164000,129000
-Data Engineer,4.5,Sagence,"Chicago, IL",Small,56000,108000,82000
-Data Engineer,3.9,Balyasny Asset Management,"Chicago, IL",Large,56000,108000,82000
-Data Engineer,3.9,Capital One,"Chicago, IL",Large,56000,108000,82000
-Data Engineer,4.1,VillageMD,"Chicago, IL",Large,56000,108000,82000
-Data Engineer,4.7,SADA,"Chicago, IL",Small,56000,108000,82000
-Data Engineer,3.7,Riskonnect,"Chicago, IL",Medium,56000,108000,82000
-Data Engineer,3.8,Citadel,"Chicago, IL",Large,56000,108000,82000
-Data Engineer,3.9,Balyasny Asset Management,"Chicago, IL",Large,85000,158000,121500
-Data Engineer,3.9,Capital One,"Chicago, IL",Large,85000,158000,121500
-Data Engineer,5.0,Kalderos,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,3.8,Mondo,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,4.7,Capax Global,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,4.3,Strike Social,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,4.1,Collabera,"Chicago, IL",Large,85000,158000,121500
-Data Engineer,4.1,Brad's Deals,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,4.8,Apervita,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,3.1,Keylent,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,-1.0,Arrive,"Chicago, IL",Unknown,85000,158000,121500
-Data Engineer,3.8,XSELL Technologies,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,5.0,Zai Global,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,3.2,RAPP,"Chicago, IL",Large,85000,158000,121500
-Data Engineer,3.2,GoHealth,"Chicago, IL",Large,85000,158000,121500
-Data Engineer,3.8,Concurrency,"Chicago, IL",Small,85000,158000,121500
-Data Engineer,-1.0,PatientIQ,"Chicago, IL",Unknown,85000,158000,121500
-Data Engineer,4.0,"Insight Enterprises, Inc.","Chicago, IL",Large,85000,158000,121500
-Data Engineer,4.1,VillageMD,"Chicago, IL",Large,133000,210000,171500
-Data Engineer,3.1,"Relevante, Inc.","Chicago, IL",Small,133000,210000,171500
-Data Engineer,3.6,Signature Consultants,"Chicago, IL",Large,133000,210000,171500
-Data Engineer,-1.0,GradTests (gradtests.com.au),"Chicago, IL",Unknown,133000,210000,171500
-Data Engineer,3.5,PDI,"Chicago, IL",Small,133000,210000,171500
-Data Engineer,4.2,Trident Consulting,"Chicago, IL",Small,133000,210000,171500
-Data Engineer,3.6,"Level Ex, Inc.","Chicago, IL",Small,133000,210000,171500
-Data Engineer,-1.0,Insight UK,"Chicago, IL",Small,133000,210000,171500
-Data Engineer,3.4,Spectrum Communications and Consulting,"Chicago, IL",Small,133000,210000,171500
-Data Engineer,3.6,Omnitracs,"Chicago, IL",Large,133000,210000,171500
-Data Engineer,4.5,Green Key Resources,"Chicago, IL",Medium,133000,210000,171500
-Data Engineer,1.6,"Management Decisions, Inc.","Chicago, IL",Small,133000,210000,171500
-Data Engineer,3.8,Diversified Services Network,"Chicago, IL",Small,95000,99000,97000
-Data Engineer,5.0,CultureFit Technology Staffing,"Chicago, IL",Small,95000,99000,97000
-Data Engineer,5.0,SIMPLIFIED IT SOLUTIONS Inc,"Chicago, IL",Small,95000,99000,97000
-Data Engineer,2.6,Interior Systems,"Downers Grove, IL",Medium,95000,99000,97000
-Data Engineer,3.2,Net2Source Inc.,"Chicago, IL",Large,95000,99000,97000
-Data Engineer,-1.0,Multivision Inc-IL,"Elmhurst, IL",Unknown,95000,99000,97000
-Data Engineer,3.2,PDI Software,"Chicago, IL",Large,95000,99000,97000
-Data Engineer,3.7,Riskonnect,"Chicago, IL",Medium,67000,72000,69500
-Data Engineer,4.7,SADA,"Chicago, IL",Small,67000,72000,69500
-Data Engineer,3.5,Elkay Manufacturing,"Downers Grove, IL",Large,67000,72000,69500
-Data Engineer,3.8,Citadel,"Chicago, IL",Large,81000,100000,90500
-Data Engineer,3.3,Trace3,"Houston, TX",Large,94000,107000,100500
-Data Engineer,3.2,Alphascript Pharmacy,"Houston, TX",Small,94000,107000,100500
-Data Engineer,3.8,Sense Corp,"Houston, TX",Medium,94000,107000,100500
-Data Engineer,4.1,Slalom,"Houston, TX",Large,94000,107000,100500
-Data Engineer,4.0,Irvine Technology Corporation,"Houston, TX",Medium,94000,107000,100500
-Data Engineer,4.9,Competentia Holding,"Houston, TX",Large,94000,107000,100500
-Data Engineer,3.9,JPMorgan Chase & Co.,"Houston, TX",Large,94000,107000,100500
-Data Engineer,-1.0,Walker Elliott,"Houston, TX",Small,94000,107000,100500
-Data Engineer,4.2,VMware,"Houston, TX",Large,94000,107000,100500
-Data Engineer,3.2,Wise Men Consultants,"Houston, TX",Large,94000,107000,100500
-Data Engineer,2.5,"TelligenTech, Inc","Houston, TX",Small,94000,107000,100500
-Data Engineer,-1.0,April Health,"Houston, TX",Small,94000,107000,100500
-Data Engineer,3.1,"Alpha Net Consulting, LLC","Houston, TX",Medium,94000,107000,100500
-Data Engineer,4.5,Frontend Arts,"Houston, TX",Small,94000,107000,100500
-Data Engineer,-1.0,m1neral,"Houston, TX",Unknown,94000,107000,100500
-Data Engineer,3.1,PREDICTif Solutions,"Houston, TX",Large,43000,84000,63500
-Data Engineer,3.1,MUFG,"Tempe, AZ",Large,69000,122000,95500
-Data Engineer,3.8,IntraEdge,"Scottsdale, AZ",Large,69000,122000,95500
-Data Engineer,4.8,Zoom,"Phoenix, AZ",Large,69000,122000,95500
-Data Engineer,3.9,"Daman, Inc.","Phoenix, AZ",Small,69000,122000,95500
-Data Engineer,4.9,Freestar,"Phoenix, AZ",Small,69000,122000,95500
-Data Engineer,4.1,DEREX TECHNOLOGIES INC.,"Phoenix, AZ",Small,69000,122000,95500
-Data Engineer,4.4,MSYS Inc.,"Chandler, AZ",Small,69000,122000,95500
-Data Engineer,4.7,Digital dhara,"Phoenix, AZ",Small,69000,122000,95500
-Data Engineer,4.6,Headfarmer,"Phoenix, AZ",Small,69000,122000,95500
-Data Engineer,3.2,Clairvoyant LLC,"Tempe, AZ",Small,69000,122000,95500
-Data Engineer,-1.0,Kforce Technology Staffing,"Phoenix, AZ",Unknown,69000,122000,95500
-Data Engineer,2.9,Sprouts Farmers Market,"Phoenix, AZ",Large,69000,122000,95500
-Data Engineer,3.2,Blue Rose Technologies LLC,"Tempe, AZ",Medium,79000,104000,91500
-Data Engineer,-1.0,Terascope,"Phoenix, AZ",Unknown,79000,104000,91500
-Data Engineer,3.9,Diverse Lynx,"Phoenix, AZ",Large,79000,104000,91500
-Data Engineer,1.6,"Management Decisions, Inc.","Phoenix, AZ",Small,79000,104000,91500
-Data Engineer,3.3,Swift Refrigerated,"Phoenix, AZ",Large,79000,104000,91500
-Data Engineer,4.3,22nd Century Staffing,"Phoenix, AZ",Small,79000,104000,91500
-Data Engineer,4.0,GTN Technical Staffing,"Phoenix, AZ",Medium,79000,104000,91500
-Data Engineer,3.4,VincentBenjamin,"Phoenix, AZ",Small,79000,104000,91500
-Data Engineer,4.1,Kforce,"Phoenix, AZ",Large,79000,104000,91500
-Data Engineer,4.3,PeopleNTech LLC,"Chandler, AZ",Small,79000,104000,91500
-Data Engineer,-1.0,Vegatron Systems,"Scottsdale, AZ",Unknown,79000,104000,91500
-Data Engineer,3.5,The Judge Group,"Tempe, AZ",Large,79000,104000,91500
-Data Engineer,3.2,Net2Source,"Phoenix, AZ",Large,79000,104000,91500
-Data Engineer,2.9,circle k,"Tempe, AZ",Large,81000,141000,111000
-Data Engineer,3.8,IntraEdge,"Scottsdale, AZ",Large,87000,104000,95500
-Data Engineer,4.6,STEVENS CAPITAL MANAGEMENT LP,"Philadelphia, PA",Small,65000,101000,83000
-Data Engineer,5.0,Maestro Technologies,"Wilmington, DE",Small,65000,101000,83000
-Data Engineer,3.8,Mondo,"Philadelphia, PA",Small,65000,101000,83000
-Data Engineer,4.3,NextGen Global Resources,"Philadelphia, PA",Large,65000,101000,83000
-Data Engineer,3.9,GSK,"Philadelphia, PA",Large,65000,101000,83000
-Data Engineer,3.4,"Digital Intelligence Systems, LLC","Philadelphia, PA",Large,65000,101000,83000
-Data Engineer,3.5,Slyce,"Philadelphia, PA",Small,65000,101000,83000
-Data Engineer,-1.0,Perpay,"Philadelphia, PA",Small,65000,101000,83000
-Data Engineer,3.4,Gopuff,"Philadelphia, PA",Large,65000,101000,83000
-Data Engineer,3.2,"Numeric, LLC","King of Prussia, PA",Small,94000,166000,130000
-Data Engineer,3.0,RennerBrown,"Philadelphia, PA",Unknown,94000,166000,130000
-Data Engineer,3.0,Ettain Group,"Philadelphia, PA",Large,94000,166000,130000
-Data Engineer,4.6,Turnberry Solutions,"Philadelphia, PA",Large,94000,166000,130000
-Data Engineer,3.8,US Tech Solutions Inc.,"Philadelphia, PA",Large,94000,166000,130000
-Data Engineer,3.4,Globex Digital Solutions,"Philadelphia, PA",Small,94000,166000,130000
-Data Engineer,3.6,Philadelphia District Attorney's Office,"Philadelphia, PA",Large,94000,166000,130000
-Data Engineer,3.5,"The Judge Group, Inc.","Philadelphia, PA",Large,94000,166000,130000
-Data Engineer,5.0,HealthVerity,"Philadelphia, PA",Small,94000,166000,130000
-Data Engineer,4.2,IntePros,"Philadelphia, PA",Medium,94000,166000,130000
-Data Engineer,4.4,Intone Networks Inc,"Malvern, PA",Medium,94000,166000,130000
-Data Engineer,-1.0,DL Staffing Solutions,"Philadelphia, PA",Unknown,94000,166000,130000
-Data Engineer,4.8,System Soft Technologies,"Cherry Hill, NJ",Medium,94000,166000,130000
-Data Engineer,3.9,AETEA Information Technology Inc,"Wilmington, DE",Medium,94000,166000,130000
-Data Engineer,3.9,Artech LLC,"Wilmington, DE",Large,57000,108000,82500
-Data Engineer,3.0,The Accuro Group,"Malvern, PA",Medium,57000,108000,82500
-Data Engineer,-1.0,Tek Pyramids Inc,"Wilmington, DE",Unknown,54000,104000,79000
-Data Engineer,3.1,Strategic Staffing Solutions,"Wilmington, DE",Large,54000,104000,79000
-Data Engineer,3.1,Group O,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,3.9,"Daman, Inc.","San Antonio, TX",Small,74000,93000,83500
-Data Engineer,3.5,"York Solutions, LLC","San Antonio, TX",Small,74000,93000,83500
-Data Engineer,3.2,iHeartMedia,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,4.5,Scaleworks,"San Antonio, TX",Small,74000,93000,83500
-Data Engineer,4.3,H E B,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,4.0,Reliable Software Resources,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,3.4,OptumCare,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,3.4,Guidehouse,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,2.5,nfolks,"San Antonio, TX",Small,74000,93000,83500
-Data Engineer,3.2,Navigant Consulting,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,4.5,B.E.A.T.,"San Antonio, TX",Small,74000,93000,83500
-Data Engineer,3.8,Speridian Technologies LLC,"San Antonio, TX",Large,74000,93000,83500
-Data Engineer,3.0,Deacon Recruiting,"San Antonio, TX",Small,74000,93000,83500
-Data Engineer,4.9,B E A T LLC,"San Antonio, TX",Small,74000,93000,83500
-Data Engineer,-1.0,GradTests (gradtests.com.au),"San Antonio, TX",Unknown,74000,93000,83500
-Data Engineer,2.9,"NTT DATA, Inc.","San Antonio, TX",Medium,74000,93000,83500
-Data Engineer,4.5,CrowdRise,"San Diego, CA",Medium,77000,181000,129000
-Data Engineer,3.9,Mercato,"San Diego, CA",Small,77000,181000,129000
-Data Engineer,3.9,Kaygen Inc,"San Diego, CA",Small,77000,181000,129000
-Data Engineer,3.3,SmartDrive Systems,"San Diego, CA",Medium,77000,181000,129000
-Data Engineer,3.8,StepStone,"La Jolla, CA",Large,77000,181000,129000
-Data Engineer,4.0,Itility,"San Diego, CA",Small,77000,181000,129000
-Data Engineer,4.0,Curemetrix,"San Diego, CA",Small,77000,181000,129000
-Data Engineer,3.4,Axos Bank,"San Diego, CA",Large,77000,181000,129000
-Data Engineer,4.0,CYNET SYSTEMS,"San Diego, CA",Large,77000,181000,129000
-Data Engineer,3.1,Logic Planet,"San Diego, CA",Medium,113000,198000,155500
-Data Engineer,3.8,Sense Corp,"Dallas, TX",Medium,64000,124000,94000
-Data Engineer,3.9,Capital One,"Plano, TX",Large,64000,124000,94000
-Data Engineer,4.6,Vinli,"Dallas, TX",Small,64000,124000,94000
-Data Engineer,-1.0,Iconic Technology Group,"Dallas, TX",Small,64000,124000,94000
-Data Engineer,-1.0,AdvanceSoft Inc,"Plano, TX",Small,64000,124000,94000
-Data Engineer,4.5,Athreya Inc,"Dallas, TX",Small,64000,124000,94000
-Data Engineer,4.0,"Object Technology Solutions, Inc.","Irving, TX",Small,64000,124000,94000
-Data Engineer,-1.0,Palnar,"Plano, TX",Medium,64000,124000,94000
-Data Engineer,3.8,InnovAccer,"Dallas, TX",Large,64000,124000,94000
-Data Engineer,3.0,"Central Business Solutions, Inc","Dallas, TX",Small,64000,124000,94000
-Data Engineer,3.9,Capital One,"Plano, TX",Large,66000,113000,89500
-Data Engineer,3.7,"DataSys Consulting and Software, Inc","Dallas, TX",Small,66000,113000,89500
-Data Engineer,-1.0,IT Minds LLC,"Dallas, TX",Small,66000,113000,89500
-Data Engineer,3.3,"V.L.S. Systems, Inc","Plano, TX",Medium,66000,113000,89500
-Data Engineer,4.1,Collabera,"Plano, TX",Large,66000,113000,89500
-Data Engineer,3.3,Vaco Financial,"Dallas, TX",Large,66000,113000,89500
-Data Engineer,3.9,Diverse Lynx,"Plano, TX",Large,66000,113000,89500
-Data Engineer,4.0,"Central Business Solutions, Inc","Dallas, TX",Small,66000,113000,89500
-Data Engineer,3.4,IQuest Solutions Corp,"Plano, TX",Small,66000,113000,89500
-Data Engineer,3.9,JPMorgan Chase & Co.,"Lewisville, TX",Large,66000,113000,89500
-Data Engineer,3.4,NTT DATA Corporation,"Irving, TX",Large,66000,113000,89500
-Data Engineer,3.5,Tek Leaders,"Plano, TX",Large,66000,113000,89500
-Data Engineer,3.0,Photon Infotech,"Irving, TX",Large,66000,113000,89500
-Data Engineer,4.4,InfoVision,"Plano, TX",Large,66000,113000,89500
-Data Engineer,3.9,Jnit Technologies,"Plano, TX",Small,105000,110000,107500
-Data Engineer,4.6,"HumCap, Inc.","Allen, TX",Small,105000,110000,107500
-Data Engineer,3.3,loanDepot,"Plano, TX",Large,105000,110000,107500
-Data Engineer,3.7,Fairway Independent Mortgage,"Carrollton, TX",Large,105000,110000,107500
-Data Engineer,5.0,Georgia IT Inc.,"Plano, TX",Small,105000,110000,107500
-Data Engineer,3.2,Net2Source,"Richardson, TX",Large,60000,109000,84500
-Data Engineer,4.0,Lorven Technologies Inc,"Plano, TX",Small,60000,109000,84500
-Data Engineer,2.4,Loan Depot,"Plano, TX",Small,60000,109000,84500
-Data Engineer,3.8,Juniper Networks,"Cupertino, CA",Large,91000,166000,128500
-Data Engineer,4.8,AppLovin,"Palo Alto, CA",Medium,91000,166000,128500
-Data Engineer,3.8,eHealth,"Santa Clara, CA",Large,91000,166000,128500
-Data Engineer,4.4,Telaria,"Mountain View, CA",Small,91000,166000,128500
-Data Engineer,4.7,Applied Intuition,"Sunnyvale, CA",Small,164000,192000,178000
-Data Engineer,3.9,PayPal,"San Jose, CA",Large,164000,192000,178000
-Data Engineer,3.9,BlackLine,"Pleasanton, CA",Large,164000,192000,178000
-Data Engineer,4.0,Flexton,"Santa Clara, CA",Small,164000,192000,178000
-Data Engineer,4.1,Apple,"Santa Clara, CA",Large,164000,192000,178000
-Data Engineer,4.1,Slalom LLC.,"San Jose, CA",Large,164000,192000,178000
-Data Engineer,4.6,Confluent,"Mountain View, CA",Large,164000,192000,178000
-Data Engineer,4.4,Google,"Redwood City, CA",Large,164000,192000,178000
-Data Engineer,1.0,"EA Team, Inc.","Mountain View, CA",Small,164000,192000,178000
-Data Engineer,4.0,CrowdStrike,"Sunnyvale, CA",Large,164000,192000,178000
-Data Engineer,4.5,Facebook,"Menlo Park, CA",Large,164000,192000,178000
-Data Engineer,3.1,FOCUSKPI INC,"Mountain View, CA",Small,164000,192000,178000
-Data Engineer,3.7,ServiceNow,"Santa Clara, CA",Large,164000,192000,178000
-Data Engineer,3.3,Synectics,"Sunnyvale, CA",Medium,164000,192000,178000
-Data Engineer,3.7,Decision Minds,"Menlo Park, CA",Small,164000,192000,178000
-Data Engineer,4.8,AppLovin,"Palo Alto, CA",Medium,108000,199000,153500
-Data Engineer,3.7,Decision Minds,"Menlo Park, CA",Small,108000,199000,153500
-Data Engineer,4.0,CYNET SYSTEMS,"Milpitas, CA",Large,108000,199000,153500
-Data Engineer,4.9,DeepMap,"Palo Alto, CA",Small,108000,199000,153500
-Data Engineer,2.5,Petuum,"Sunnyvale, CA",Small,108000,199000,153500
-Data Engineer,5.0,Indrasol,"Menlo Park, CA",Small,108000,199000,153500
-Data Engineer,3.9,Grid Dynamics,"Mountain View, CA",Large,108000,199000,153500
-Data Engineer,2.3,WE Career,"Mountain View, CA",Small,108000,199000,153500
-Data Engineer,4.2,CyberCoders,"Redwood City, CA",Medium,108000,199000,153500
-Data Engineer,3.6,Trianz,"Santa Clara, CA",Large,108000,199000,153500
-Data Engineer,3.0,Sonus Software Solutions Inc.,"Sunnyvale, CA",Unknown,108000,199000,153500
-Data Engineer,4.2,Nextgen Technologies,"San Jose, CA",Small,108000,199000,153500
-Data Engineer,-1.0,Trovetechs Inc,"Mountain View, CA",Unknown,108000,199000,153500
-Data Engineer,3.5,Saama,"Campbell, CA",Small,108000,199000,153500
-Data Engineer,3.4,Mackin,"Menlo Park, CA",Small,108000,199000,153500
-Data Engineer,4.1,IntelliPro Group Inc.,"Sunnyvale, CA",Medium,108000,199000,153500
-Data Engineer,4.6,"Conch Technologies, Inc","San Jose, CA",Small,108000,199000,153500
-Data Engineer,4.1,Shape Security,"Santa Clara, CA",Small,77000,145000,111000
-Data Engineer,3.1,hiretual.com,"Mountain View, CA",Small,77000,145000,111000
-Data Engineer,4.6,otsi,"Fremont, CA",Small,77000,145000,111000
-Data Engineer,4.7,Sharpedge Solutions Inc,"Menlo Park, CA",Unknown,77000,145000,111000
-Data Engineer,3.1,Safeway Inc,"Pleasanton, CA",Large,77000,145000,111000
-Data Engineer,3.9,Nyansa,"Palo Alto, CA",Small,77000,145000,111000
-Data Engineer,4.0,Quantum World Technologies Inc,"Menlo Park, CA",Small,77000,145000,111000
-Data Engineer,3.9,Diverse Lynx,"San Jose, CA",Large,77000,145000,111000
-Data Engineer,3.9,"Aptude, Inc","Menlo Park, CA",Small,77000,145000,111000
-Data Engineer,3.7,"Redolent, Inc","Sunnyvale, CA",Small,77000,145000,111000
-Data Engineer,4.0,"Central Business Solutions, Inc","San Jose, CA",Small,77000,145000,111000
-Data Engineer,4.0,"Object Technology Solutions, Inc.","Fremont, CA",Small,77000,145000,111000
-Data Engineer,3.3,Itility,"San Jose, CA",Small,77000,145000,111000
-Data Engineer,3.8,eHealth,"Santa Clara, CA",Large,54000,103000,78500
-Data Engineer,3.3,Albertsons Companies,"Pleasanton, CA",Large,54000,103000,78500
-Data Engineer,3.9,Technovert,"Menlo Park, CA",Small,54000,103000,78500
-Data Engineer,-1.0,Boston Services,"San Jose, CA",Unknown,54000,103000,78500
-Data Engineer,-1.0,Mobiveil Technologies Inc.,"San Jose, CA",Unknown,54000,103000,78500
-Data Engineer,-1.0,GradTests (gradtests.com.au),"San Jose, CA",Unknown,54000,103000,78500
-Data Engineer,4.0,"LotusFlare, Inc.","Sunnyvale, CA",Small,54000,103000,78500
-Data Engineer,3.0,Best High Technologies,"Mountain View, CA",Medium,54000,103000,78500
-Data Engineer,5.0,Braintree Technology Solutions,"Menlo Park, CA",Small,54000,103000,78500
-Data Engineer,-1.0,Kforce Technology Staffing,"Mountain View, CA",Unknown,54000,103000,78500
-Data Engineer,3.6,Xoriant Corporation,"Sunnyvale, CA",Large,54000,103000,78500
-Data Engineer,3.9,K-Tek Resourcing LLC,"Fremont, CA",Medium,54000,103000,78500
-Data Engineer,3.4,Saama Technologies Inc,"Campbell, CA",Large,54000,103000,78500
-Data Engineer,3.4,Globex Digital Solutions,"Sunnyvale, CA",Small,54000,103000,78500
-Data Engineer,-1.0,PETADATA,"Fremont, CA",Small,54000,103000,78500
-Data Engineer,4.6,Maania Consultancy Services,"Sunnyvale, CA",Small,54000,103000,78500
-Data Engineer,4.9,"Amick Brown, LLC","Sunnyvale, CA",Small,54000,103000,78500
-Data Engineer,3.5,Robert Half,"Sunnyvale, CA",Large,54000,103000,78500
-Data Engineer,-1.0,Trovetechs Inc,"Mountain View, CA",Unknown,54000,103000,78500
-Data Engineer,3.2,Calsoft Labs,"Sunnyvale, CA",Large,54000,103000,78500
-Data Engineer,4.5,Frontend Arts,"Sunnyvale, CA",Small,54000,103000,78500
-Data Engineer,-1.0,Ertino Inc,"Menlo Park, CA",Unknown,54000,103000,78500
-Data Engineer,4.4,Telaria,"Mountain View, CA",Small,108000,127000,117500
-Data Engineer,5.0,pddninc.net,"Sunnyvale, CA",Small,108000,127000,117500
-Data Engineer,3.8,VLink Inc,"Menlo Park, CA",Medium,108000,127000,117500
-Data Engineer,-1.0,TEK NINJAS,"Menlo Park, CA",Small,108000,127000,117500
-Data Engineer,-1.0,pddninc.net,"Sunnyvale, CA",Unknown,108000,127000,117500
-Data Engineer,4.0,New York Technology Partners,"Menlo Park, CA",Small,108000,127000,117500
-Data Engineer,-1.0,FutureSoft IT,"Sunnyvale, CA",Unknown,108000,127000,117500
-Data Engineer,3.2,Yochana,"Sunnyvale, CA",Medium,108000,127000,117500
-Data Engineer,4.1,Kforce,"Mountain View, CA",Large,108000,127000,117500
-Data Engineer,3.5,HCL America Inc.,"Menlo Park, CA",Large,108000,127000,117500
-Data Engineer,4.0,Lorven Technologies Inc,"Sunnyvale, CA",Small,108000,127000,117500
-Data Engineer,3.0,Intelliswift Software Inc,"Sunnyvale, CA",Medium,108000,127000,117500
-Data Engineer,3.9,B-Stock Solutions,"Belmont, CA",Small,108000,127000,117500
-Data Engineer,-1.0,"Applicantz, Inc.","Menlo Park, CA",Small,100000,181000,140500
-Data Engineer,-1.0,Stride Search,"Redwood City, CA",Small,100000,181000,140500
-Data Engineer,3.8,Apex Systems,"Menlo Park, CA",Large,100000,181000,140500
-Data Engineer,3.9,Balyasny Asset Management,"Austin, TX",Large,88000,163000,125500
-Data Engineer,4.7,SADA,"Austin, TX",Small,88000,163000,125500
-Data Engineer,3.9,Amazon,"Austin, TX",Large,88000,163000,125500
-Data Engineer,4.1,Apple,"Austin, TX",Large,88000,163000,125500
-Data Engineer,4.2,RunTitle,"Austin, TX",Small,88000,163000,125500
-Data Engineer,4.4,Tachyon Technologies,"Austin, TX",Medium,88000,163000,125500
-Data Engineer,3.8,Sense Corp,"Austin, TX",Medium,88000,163000,125500
-Data Engineer,4.9,"Treehouse Technology Group, LLC","Austin, TX",Small,88000,163000,125500
-Data Engineer,3.8,"Pilytix, LLC","Austin, TX",Small,88000,163000,125500
-Data Engineer,3.2,"Phunware, Inc","Austin, TX",Small,79000,96000,87500
-Data Engineer,4.8,"EtiVenture, Inc.","Austin, TX",Small,79000,96000,87500
-Data Engineer,4.0,LMI,"Austin, TX",Large,79000,96000,87500
-Data Engineer,4.2,Procore Technologies,"Austin, TX",Large,79000,96000,87500
-Data Engineer,3.5,Atos Syntel Inc.,"Austin, TX",Large,79000,96000,87500
-Data Engineer,3.9,Octo Consulting Group,"Austin, TX",Large,79000,96000,87500
-Data Engineer,4.0,WorldQuant,"Austin, TX",Large,79000,96000,87500
-Data Engineer,3.4,OBXtek,"Austin, TX",Large,79000,96000,87500
-Data Engineer,4.2,NRCCUA,"Austin, TX",Small,79000,96000,87500
-Data Engineer,-1.0,"Integrated Technology Strategies, Inc.","Austin, TX",Small,79000,96000,87500
-Data Engineer,-1.0,BuildGroup Data Services,"Austin, TX",Unknown,79000,96000,87500
-Data Engineer,4.7,SADA,"Austin, TX",Small,99000,177000,138000
-Data Engineer,3.3,Pro-Sphere Tek,"Austin, TX",Medium,99000,177000,138000
-Data Engineer,-1.0,Nigel Frank International US,"Austin, TX",Large,67000,126000,96500
-Data Engineer,4.1,APN Software Services Inc.,"Round Rock, TX",Small,67000,126000,96500
-Data Engineer,3.8,Clearsense,"Jacksonville, FL",Small,27000,50000,38500
-Data Engineer,4.3,TekPartners,"Jacksonville, FL",Large,27000,50000,38500
-Data Engineer,-1.0,GradTests (gradtests.com.au),"Jacksonville, FL",Unknown,27000,50000,38500
-Data Engineer,5.0,"Amvotech Solutions, Inc","Fort Worth, TX",Small,65000,120000,92500
-Data Engineer,-1.0,Headway Tek Inc,"Fort Worth, TX",Unknown,65000,120000,92500
-Data Engineer,4.0,"Object Technology Solutions, Inc.","Irving, TX",Small,65000,120000,92500
-Data Engineer,3.3,NT Concepts,"Fort Worth, TX",Large,65000,120000,92500
-Data Engineer,3.5,Tek Leaders,"Fort Worth, TX",Large,65000,120000,92500
-Data Engineer,3.4,NTT DATA Corporation,"Irving, TX",Large,65000,120000,92500
-Data Engineer,3.0,Photon Infotech,"Irving, TX",Large,65000,120000,92500
-Software Engineer,3.9,Verra Mobility,"Jersey City, NJ",Large,80000,150000,115000
-Software Engineer,4.8,Reaktor,"New York, NY",Large,73000,94000,83500
-Software Engineer,3.5,The Play Station,"Los Angeles, CA",Large,93000,106000,99500
-Software Engineer,3.4,Aerotek,"Pasadena, CA",Large,115000,201000,158000
-Software Engineer,5.0,Epirus,"Los Angeles, CA",Small,115000,201000,158000
-Software Engineer,5.0,Relativity Space,"Los Angeles, CA",Small,115000,201000,158000
-Software Engineer,3.4,Echo Global Logistics,"Chicago, IL",Large,85000,158000,121500
-Software Engineer,4.3,Strata Decision Technology,"Chicago, IL",Medium,133000,210000,171500
-Software Engineer,5.0,SimpleLegal,"Houston, TX",Small,94000,107000,100500
-Software Engineer,3.8,Oceanit,"Houston, TX",Small,43000,84000,63500
-Software Engineer,4.9,Project Ronin,"Houston, TX",Small,62000,92000,77000
-Software Engineer,4.9,Liongard,"Houston, TX",Small,62000,92000,77000
-Software Engineer,4.2,CyberCoders,"Houston, TX",Medium,55000,106000,80500
-Software Engineer,3.9,JPMorgan Chase & Co.,"Houston, TX",Large,55000,106000,80500
-Software Engineer,3.6,Drilling Info,"Houston, TX",Large,55000,106000,80500
-Software Engineer,4.4,Ikon Tech,"Houston, TX",Small,55000,106000,80500
-Software Engineer,4.0,Tres Solutions,"Houston, TX",Small,55000,106000,80500
-Software Engineer,2.0,GMV Syncromatics,"Houston, TX",Small,69000,103000,86000
-Software Engineer,3.7,Barrios Technology,"Houston, TX",Large,69000,103000,86000
-Software Engineer,3.7,All Points Logistics,"Houston, TX",Small,69000,103000,86000
-Software Engineer,4.3,Invoice Cloud,"Houston, TX",Small,69000,103000,86000
-Software Engineer,-1.0,Sinopec Tech Houston,"Houston, TX",Small,69000,103000,86000
-Software Engineer,4.0,Visionet Systems,"Houston, TX",Large,54000,113000,83500
-Software Engineer,3.0,The Premier Resources Group,"Houston, TX",Small,54000,113000,83500
-Software Engineer,3.9,K-Tek Resourcing LLC,"Houston, TX",Medium,74000,123000,98500
-Software Engineer,3.1,MUFG,"Tempe, AZ",Large,79000,104000,91500
-Software Engineer,3.8,IntraEdge,"Phoenix, AZ",Large,79000,104000,91500
-Software Engineer,5.0,Proctorio,"Scottsdale, AZ",Small,87000,104000,95500
-Software Engineer,4.3,Redwood Dental,"Phoenix, AZ",Medium,87000,104000,95500
-Software Engineer,3.2,Synchronoss,"Phoenix, AZ",Large,87000,104000,95500
-Software Engineer,3.5,Andiamo,"Phoenix, AZ",Medium,73000,126000,99500
-Software Engineer,4.9,"Atrilogy Solutions Group, Inc.","Phoenix, AZ",Small,74000,145000,109500
-Software Engineer,3.2,Limelight Networks,"Tempe, AZ",Large,118000,187000,152500
-Software Engineer,3.2,Cerebrum,"Chandler, AZ",Small,57000,92000,74500
-Software Engineer,3.9,AWeber,"Philadelphia, PA",Small,65000,101000,83000
-Software Engineer,4.4,Talend,"Philadelphia, PA",Large,94000,166000,130000
-Software Engineer,3.8,Subaru of America,"Camden, NJ",Large,57000,108000,82500
-Software Engineer,4.6,Azavea,"Philadelphia, PA",Small,57000,108000,82500
-Software Engineer,3.7,Creative Circle,"Philadelphia, PA",Medium,54000,104000,79000
-Software Engineer,-1.0,KickUp,"Philadelphia, PA",Small,54000,104000,79000
-Software Engineer,3.5,General Dynamics,"Philadelphia, PA",Large,55000,105000,80000
-Software Engineer,3.1,Nanthealth,"Philadelphia, PA",Medium,55000,105000,80000
-Software Engineer,4.5,OPEX Corporation,"Moorestown, NJ",Large,55000,105000,80000
-Software Engineer,4.3,Group K Diagnostics,"Philadelphia, PA",Small,71000,130000,100500
-Software Engineer,-1.0,American Water Works Service Company Inc,"Camden, NJ",Unknown,71000,130000,100500
-Software Engineer,3.5,General Dynamics Information Technology,"Philadelphia, PA",Large,71000,130000,100500
-Software Engineer,4.9,Gnostech,"Moorestown, NJ",Small,71000,130000,100500
-Software Engineer,3.4,Gopuff,"Philadelphia, PA",Large,154000,281000,217500
-Software Engineer,4.3,Redwood Dental,"San Antonio, TX",Medium,75000,135000,105000
-Software Engineer,4.3,Vizrt,"San Antonio, TX",Large,75000,135000,105000
-Software Engineer,3.7,22nd Century Technologies,"San Antonio, TX",Large,28000,53000,40500
-Software Engineer,3.3,Abacus Technology,"San Antonio, TX",Large,28000,53000,40500
-Software Engineer,4.1,"Vistronix, Inc.","San Diego, CA",Large,79000,132000,105500
-Software Engineer,3.7,Teradata Corporation,"San Diego, CA",Large,79000,132000,105500
-Software Engineer,4.1,ResMed,"San Diego, CA",Large,79000,132000,105500
-Software Engineer,2.6,Quidel Corporation,"San Diego, CA",Large,79000,132000,105500
-Software Engineer,3.7,ServiceNow,"San Diego, CA",Large,79000,132000,105500
-Software Engineer,4.6,SoftClouds,"San Diego, CA",Small,79000,132000,105500
-Software Engineer,3.9,"TEKsystems, Inc","San Diego, CA",Large,191000,217000,204000
-Software Engineer,4.0,Sandbox Banking,"San Diego, CA",Small,191000,217000,204000
-Software Engineer,-1.0,"Venator Solutions, LLC","San Diego, CA",Unknown,191000,217000,204000
-Software Engineer,3.2,sensemetrics,"San Diego, CA",Small,191000,217000,204000
-Software Engineer,4.9,Jobot,"San Diego, CA",Small,191000,217000,204000
-Software Engineer,3.8,LanceSoft Inc,"San Diego, CA",Large,191000,217000,204000
-Software Engineer,3.9,Forward Slope Inc.,"San Diego, CA",Small,191000,217000,204000
-Software Engineer,3.1,SOLUTE,"San Diego, CA",Small,191000,217000,204000
-Software Engineer,3.8,CliniComp,"San Diego, CA",Small,140000,151000,145500
-Software Engineer,3.8,Northrop Grumman,"San Diego, CA",Large,140000,151000,145500
-Software Engineer,3.4,ASRC Federal Holding Company,"San Diego, CA",Large,140000,151000,145500
-Software Engineer,-1.0,Advanced Sciences and Technologies (AS&T),"San Diego, CA",Unknown,106000,127000,116500
-Software Engineer,3.8,Juniper Networks,"Sunnyvale, CA",Large,91000,166000,128500
-Software Engineer,3.2,Accuracy,"Sunnyvale, CA",Large,108000,199000,153500
-Software Engineer,5.0,SimpleLegal,"Mountain View, CA",Small,77000,145000,111000
-Software Engineer,3.4,ShipStation,"Austin, TX",Small,79000,96000,87500
-Software Engineer,3.8,eHealth,"Austin, TX",Large,99000,177000,138000
-Software Engineer,3.5,Braintree,"Austin, TX",Large,99000,177000,138000
-Software Engineer,3.1,Dun & Bradstreet,"Austin, TX",Large,67000,126000,96500
-Software Engineer,4.1,Apple,"Austin, TX",Large,67000,126000,96500
-Software Engineer,4.0,REX,"Austin, TX",Small,67000,126000,96500
-Software Engineer,3.6,Ultra,"Austin, TX",Large,67000,126000,96500
-Software Engineer,3.9,Amazon,"Austin, TX",Large,67000,126000,96500
-Software Engineer,3.4,Vertiv Co,"Austin, TX",Large,82000,130000,106000
-Software Engineer,3.6,FIS,"Austin, TX",Large,82000,130000,106000
-Software Engineer,3.6,Home Depot,"Austin, TX",Large,82000,130000,106000
-Software Engineer,4.6,"Open Systems, Inc.","Austin, TX",Small,82000,130000,106000
-Software Engineer,-1.0,Inverselogix,"Jacksonville, FL",Unknown,27000,50000,38500
-Software Engineer,3.8,Lockheed Martin,"Fort Worth, TX",Large,60000,109000,84500
-Software Engineer,5.0,Koddi,"Fort Worth, TX",Small,60000,109000,84500
-Software Engineer,3.5,Wabtec Corporation,"Fort Worth, TX",Large,30000,60000,45000
-Software Engineer,3.7,Pixentia,"Irving, TX",Small,30000,60000,45000
-Software Engineer,4.6,"HumCap, Inc.","Arlington, TX",Small,30000,60000,45000
-Software Engineer,3.6,Gartner,"Arlington, TX",Large,30000,60000,45000
-Software Engineer,4.3,ConsultAdd,"Irving, TX",Small,48000,74000,61000
-Big Data Engineer,3.9,Amazon,"New York, NY",Large,105000,121000,113000
-Big Data Engineer,-1.0,Trovetechs Inc,"Los Angeles, CA",Unknown,115000,201000,158000
-Big Data Engineer,3.3,PROLIM Global Corporation,"Burbank, CA",Medium,94000,164000,129000
-Big Data Engineer,1.6,"Management Decisions, Inc.","Los Angeles, CA",Small,94000,164000,129000
-Big Data Engineer,4.5,Involgix,"Chicago, IL",Small,133000,210000,171500
-Big Data Engineer,4.5,Involgix,"Chicago, IL",Small,95000,99000,97000
-Big Data Engineer,4.1,Collabera,"Chicago, IL",Large,95000,99000,97000
-Big Data Engineer,3.9,Edgilent Corp.,"Chicago, IL",Small,67000,72000,69500
-Big Data Engineer,5.0,VDeploy Consulting LLC,"Chicago, IL",Small,67000,72000,69500
-Big Data Engineer,4.8,Sky Consulting Inc,"Chicago, IL",Small,53000,100000,76500
-Big Data Engineer,-1.0,LiniumIT,"Chicago, IL",Unknown,53000,100000,76500
-Big Data Engineer,3.3,Mindteck,"Houston, TX",Large,94000,107000,100500
-Big Data Engineer,3.5,Robert Half,"Houston, TX",Large,43000,84000,63500
-Big Data Engineer,3.8,IDC Technologies,"Houston, TX",Large,43000,84000,63500
-Big Data Engineer,3.8,IntraEdge,"Phoenix, AZ",Large,69000,122000,95500
-Big Data Engineer,4.1,Sysmind LLC,"Phoenix, AZ",Small,81000,141000,111000
-Big Data Engineer,3.6,Xoriant Corporation,"Phoenix, AZ",Large,81000,141000,111000
-Big Data Engineer,2.9,Impetus,"Phoenix, AZ",Unknown,81000,141000,111000
-Big Data Engineer,4.0,ISGIT,"Phoenix, AZ",Small,81000,141000,111000
-Big Data Engineer,3.9,Diverse Lynx,"Phoenix, AZ",Large,87000,104000,95500
-Big Data Engineer,-1.0,Callibus Inc,"Phoenix, AZ",Unknown,87000,104000,95500
-Big Data Engineer,4.0,Lorven Technologies Inc,"Phoenix, AZ",Small,87000,104000,95500
-Big Data Engineer,-1.0,"STM Consulting, Inc.","Phoenix, AZ",Unknown,87000,104000,95500
-Big Data Engineer,3.7,Impetus Technologies,"Phoenix, AZ",Large,73000,126000,99500
-Big Data Engineer,3.8,IntraEdge,"Phoenix, AZ",Large,58000,94000,76000
-Big Data Engineer,3.5,Robert Half,"Philadelphia, PA",Large,94000,166000,130000
-Big Data Engineer,4.6,Tiger Analytics,"Newtown, PA",Medium,55000,105000,80000
-Big Data Engineer,4.4,Softcom Systems,"King of Prussia, PA",Small,55000,105000,80000
-Big Data Engineer,3.9,ApTask,"Wilmington, DE",Medium,55000,105000,80000
-Big Data Engineer,2.6,Omega Solutions Inc,"Wilmington, DE",Small,55000,105000,80000
-Big Data Engineer,3.7,"Pyramid Consulting, Inc","Wilmington, DE",Large,154000,281000,217500
-Big Data Engineer,3.8,Inseego,"San Diego, CA",Large,113000,198000,155500
-Big Data Engineer,3.4,Allstate,"Irving, TX",Large,64000,124000,94000
-Big Data Engineer,3.4,Allstate,"Irving, TX",Large,66000,113000,89500
-Big Data Engineer,3.8,Tata Consultancy Services,"Irving, TX",Large,66000,113000,89500
-Big Data Engineer,4.3,"Onica, a Rackspace Company","Dallas, TX",Medium,66000,113000,89500
-Big Data Engineer,1.0,Elan Partners,"Dallas, TX",Small,105000,110000,107500
-Big Data Engineer,3.7,"DataSys Consulting and Software, Inc","Dallas, TX",Small,105000,110000,107500
-Big Data Engineer,3.9,Alt Shift USA,"Dallas, TX",Small,105000,110000,107500
-Big Data Engineer,4.6,Tiger Analytics,"Dallas, TX",Medium,105000,110000,107500
-Big Data Engineer,3.4,Ksquare Solutions INC.,"Dallas, TX",Small,105000,110000,107500
-Big Data Engineer,3.7,Tata Consultancy Services (North America),"Irving, TX",Large,60000,109000,84500
-Big Data Engineer,-1.0,datasysamerica,"Dallas, TX",Unknown,60000,109000,84500
-Big Data Engineer,-1.0,CloudPoint Systems inc.,"Dallas, TX",Small,60000,109000,84500
-Big Data Engineer,4.4,Tachyon Technologies LLC,"Irving, TX",Medium,60000,109000,84500
-Big Data Engineer,2.4,Frontier Communications,"Allen, TX",Large,60000,109000,84500
-Big Data Engineer,3.9,Horizontal Talent,"Plano, TX",Large,74000,134000,104000
-Big Data Engineer,3.8,Enterprise Solutions Inc,"Irving, TX",Small,74000,134000,104000
-Big Data Engineer,3.9,Diverse Lynx,"Irving, TX",Large,74000,134000,104000
-Big Data Engineer,4.4,InfoVision,"Plano, TX",Large,110000,188000,149000
-Big Data Engineer,4.3,SLiQ Information Technologies,"Plano, TX",Small,75000,135000,105000
-Big Data Engineer,-1.0,zacxo,"Lewisville, TX",Small,75000,135000,105000
-Big Data Engineer,4.1,Plume,"Palo Alto, CA",Small,91000,166000,128500
-Big Data Engineer,4.5,SpringML,"Pleasanton, CA",Small,91000,166000,128500
-Big Data Engineer,4.8,Zoom,"San Jose, CA",Large,108000,199000,153500
-Big Data Engineer,4.1,Plume,"Palo Alto, CA",Small,77000,145000,111000
-Big Data Engineer,4.5,SpringML,"Pleasanton, CA",Small,54000,103000,78500
-Big Data Engineer,4.2,Nextgen Technologies,"San Jose, CA",Small,108000,127000,117500
-Big Data Engineer,3.9,Deloitte,"San Jose, CA",Large,108000,127000,117500
-Big Data Engineer,4.7,Qstride,"Sunnyvale, CA",Small,100000,181000,140500
-Big Data Engineer,-1.0,"CESUSA, INC.","San Jose, CA",Unknown,100000,181000,140500
-Big Data Engineer,4.5,SpringML,"Austin, TX",Small,88000,163000,125500
-Big Data Engineer,4.5,SpringML,"Austin, TX",Small,79000,96000,87500
-Big Data Engineer,4.3,"Onica, a Rackspace Company","Austin, TX",Medium,79000,96000,87500
-Big Data Engineer,4.0,CYNET SYSTEMS,"Austin, TX",Large,52000,85000,68500
-Big Data Engineer,4.0,Lorven Technologies Inc,"Austin, TX",Small,67000,126000,96500
-Big Data Engineer,3.4,Allstate,"Irving, TX",Large,65000,120000,92500
-Big Data Engineer,3.8,Tata Consultancy Services,"Irving, TX",Large,65000,120000,92500
-Big Data Engineer,3.7,Tata Consultancy Services (North America),"Irving, TX",Large,60000,109000,84500
-Big Data Engineer,4.4,Tachyon Technologies LLC,"Irving, TX",Medium,60000,109000,84500
-Big Data Engineer,-1.0,Node.Digital LLC,"Arlington, TX",Small,60000,109000,84500
-Big Data Engineer,3.8,Enterprise Solutions Inc,"Irving, TX",Small,60000,109000,84500
-Big Data Engineer,3.9,Diverse Lynx,"Irving, TX",Large,30000,60000,45000
+Job Title,Company Rating,Company Name,Location,Company Size,Minimum Salary,Maximum Salary,Average Salary,Lat,Long
+Data Engineer,4.5,Sagence,"New York, NY",Small,80000,150000,115000,40.73061,-73.935242
+Data Engineer,3.7,GNY Insurance Companies,"New York, NY",Medium,80000,150000,115000,40.73061,-73.935242
+Data Engineer,4.2,NJF Global Holdings,"New York, NY",Small,80000,150000,115000,40.73061,-73.935242
+Data Engineer,3.8,Citadel,"New York, NY",Large,80000,150000,115000,40.73061,-73.935242
+Data Engineer,4.4,PulsePoint,"New York, NY",Small,80000,150000,115000,40.73061,-73.935242
+Data Engineer,3.8,Spotify,"New York, NY",Large,80000,150000,115000,40.73061,-73.935242
+Data Engineer,4.9,Freestar,"New York, NY",Small,80000,150000,115000,40.73061,-73.935242
+Data Engineer,4.7,Cockroach Labs,"New York, NY",Small,80000,150000,115000,40.73061,-73.935242
+Data Engineer,2.5,FourSquare,"New York, NY",Medium,80000,150000,115000,40.73061,-73.935242
+Data Engineer,3.7,GNY Insurance Companies,"New York, NY",Medium,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.5,Daily Harvest,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.9,Point72,"New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Data Engineer,4.7,SADA,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.5,Larsen & Toubro Infotech Limited,"New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.8,"Peloton Interactive, Inc.","New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Data Engineer,-1.0,Aptino,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.9,Columbia University,"New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Data Engineer,2.7,Bark & Co,"New York, NY",Medium,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.8,New York Times,"New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.1,Glossier,"New York, NY",Medium,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.8,CommonBond,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.9,Stash,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,4.4,Mark43,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,4.7,B12,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,-1.0,Clear Street,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,1.0,Tiro,"New York, NY",Medium,73000,94000,83500,40.73061,-73.935242
+Data Engineer,4.7,Seated,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,-1.0,Thinknum,"New York, NY",Unknown,73000,94000,83500,40.73061,-73.935242
+Data Engineer,3.9,Amazon,"New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Data Engineer,-1.0,The Princeton Group,"New York, NY",Small,73000,94000,83500,40.73061,-73.935242
+Data Engineer,4.2,NJF Global Holdings,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,-1.0,Pinto,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.9,Millennium,"New York, NY",Large,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.8,Bloomberg,"New York, NY",Large,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.6,Nasdaq,"New York, NY",Large,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.8,National Basketball Association,"Secaucus, NJ",Large,85000,154000,119500,39.833851,-74.871826
+Data Engineer,-1.0,Attentive,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,4.1,Datadog,"New York, NY",Large,85000,154000,119500,40.73061,-73.935242
+Data Engineer,-1.0,Proinfy,"Parsippany, NJ",Unknown,85000,154000,119500,39.833851,-74.871826
+Data Engineer,5.0,Hudson River Trading,"New York, NY",Medium,85000,154000,119500,40.73061,-73.935242
+Data Engineer,5.0,LaBine & Associates,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.6,New York Life Insurance Co,"New York, NY",Large,85000,154000,119500,40.73061,-73.935242
+Data Engineer,4.3,BrainPOP,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.2,Quadpay,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,4.3,Caserta,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.8,Columbia University Medical Center,"New York, NY",Large,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.4,Blue State,"New York, NY",Small,85000,154000,119500,40.73061,-73.935242
+Data Engineer,4.4,Atyeti,"New York, NY",Medium,85000,154000,119500,40.73061,-73.935242
+Data Engineer,3.5,American Modern Insurance Group,"New York, NY",Unknown,85000,154000,119500,40.73061,-73.935242
+Data Engineer,2.6,Transit Wireless (USD),"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,3.9,Silver Search Inc,"New York, NY",Unknown,84000,113000,98500,40.73061,-73.935242
+Data Engineer,5.0,Millennium Partners,"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,2.9,Novantas,"New York, NY",Medium,84000,113000,98500,40.73061,-73.935242
+Data Engineer,-1.0,Entera,"New York, NY",Unknown,84000,113000,98500,40.73061,-73.935242
+Data Engineer,2.8,Stadium Goods,"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,3.9,FanDuel,"New York, NY",Large,84000,113000,98500,40.73061,-73.935242
+Data Engineer,3.7,Munich Re,"New York, NY",Large,84000,113000,98500,40.73061,-73.935242
+Data Engineer,4.0,Ladders,"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,3.9,J.P. Morgan,"Newark, NJ",Large,84000,113000,98500,39.833851,-74.871826
+Data Engineer,3.7,WisdomTree Investments Inc,"New York, NY",Medium,84000,113000,98500,40.73061,-73.935242
+Data Engineer,3.3,ERGO Group,"New York, NY",Medium,84000,113000,98500,40.73061,-73.935242
+Data Engineer,-1.0,Pierce Technology Corp,"New York, NY",Unknown,84000,113000,98500,40.73061,-73.935242
+Data Engineer,4.0,Progyny,"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,4.6,"Conch Technologies, Inc","New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,3.4,Business Insider,"New York, NY",Medium,84000,113000,98500,40.73061,-73.935242
+Data Engineer,5.0,Resource 1,"Newark, NJ",Small,84000,113000,98500,39.833851,-74.871826
+Data Engineer,4.8,TelTech,"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,4.7,Fivesky,"New York, NY",Small,84000,113000,98500,40.73061,-73.935242
+Data Engineer,4.4,INTURN,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,-1.0,"Lokavant, Inc.","New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,3.9,ApTask,"New York, NY",Medium,57000,75000,66000,40.73061,-73.935242
+Data Engineer,3.2,AllianceBernstein,"New York, NY",Large,57000,75000,66000,40.73061,-73.935242
+Data Engineer,-1.0,Mosaic Group,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,2.2,Motivate,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,2.9,Docker,"New York, NY",Medium,57000,75000,66000,40.73061,-73.935242
+Data Engineer,-1.0,Resource1,"Newark, NJ",Small,57000,75000,66000,39.833851,-74.871826
+Data Engineer,4.5,Simon Data,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,5.0,EDO,"New York, NY",Unknown,57000,75000,66000,40.73061,-73.935242
+Data Engineer,-1.0,Stash,"New York, NY",Unknown,57000,75000,66000,40.73061,-73.935242
+Data Engineer,3.5,CGI,"Bloomfield, NJ",Large,57000,75000,66000,39.833851,-74.871826
+Data Engineer,2.0,"T-REX Group, Inc.","New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,3.2,Virtual Clarity,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,-1.0,JSR Tech Consulting,"Newark, NJ",Small,57000,75000,66000,39.833851,-74.871826
+Data Engineer,3.5,Youngsoft,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,5.0,ingenium.agency,"New York, NY",Small,57000,75000,66000,40.73061,-73.935242
+Data Engineer,3.8,Citadel,"New York, NY",Large,105000,121000,113000,40.73061,-73.935242
+Data Engineer,4.4,PulsePoint,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,4.2,Centraprise,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,Atom Finance,"New York, NY",Unknown,105000,121000,113000,40.73061,-73.935242
+Data Engineer,2.4,Infoway Software,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,Greater New York Mutual Insurance Companies (GNY),"New York, NY",Unknown,105000,121000,113000,40.73061,-73.935242
+Data Engineer,5.0,Quantum Search Partners,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,Simondata,"New York, NY",Unknown,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,Spartoi Group,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,MLWIZ Team,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.2,Hagerty Consulting,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.5,Russell Tobin & Associates,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,4.5,Global Atlantic Financial Group,"New York, NY",Large,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.9,Diverse Lynx,"New York, NY",Large,105000,121000,113000,40.73061,-73.935242
+Data Engineer,5.0,SIMON Markets LLC,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,4.8,Boyle Software,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.9,"Madison Logic, Inc.","New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.5,Andiamo,"Newark, NJ",Medium,105000,121000,113000,39.833851,-74.871826
+Data Engineer,4.4,Vydia,"Holmdel, NJ",Small,105000,121000,113000,39.833851,-74.871826
+Data Engineer,-1.0,Carter Wellington Limited,"New York, NY",Unknown,105000,121000,113000,40.73061,-73.935242
+Data Engineer,4.7,"Resource Logistics, Inc.","New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,Skiltrek,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,5.0,Averity,"New York, NY",Small,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.3,Cross River Bank,"Fort Lee, NJ",Medium,105000,121000,113000,39.833851,-74.871826
+Data Engineer,-1.0,ingenium.agency,"New York, NY",Unknown,105000,121000,113000,40.73061,-73.935242
+Data Engineer,3.2,Allied World Assurance,"New York, NY",Large,105000,121000,113000,40.73061,-73.935242
+Data Engineer,-1.0,"J Harlan Group, LLC","New York, NY",Small,92000,117000,104500,40.73061,-73.935242
+Data Engineer,3.8,Apex Systems,"New York, NY",Large,92000,117000,104500,40.73061,-73.935242
+Data Engineer,4.0,"Lorven Technologies, Inc.","New York, NY",Small,92000,117000,104500,40.73061,-73.935242
+Data Engineer,3.9,Phyton Talent Advisors,"New York, NY",Small,92000,117000,104500,40.73061,-73.935242
+Data Engineer,5.0,Albert (CA),"Los Angeles, CA",Small,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.4,Direct Agents,"Culver City, CA",Small,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.7,SADA,"Los Angeles, CA",Small,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.5,CrowdRise,"Los Angeles, CA",Medium,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.3,Age of Learning,"Glendale, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.1,The Honest Company,"Los Angeles, CA",Medium,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.0,Idealab,"Pasadena, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.2,Sumeru,"Los Angeles, CA",Medium,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.6,J. Paul Getty Trust,"Los Angeles, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.8,Mondo,"Los Angeles, CA",Small,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.9,BlackLine,"Woodland Hills, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.3,ZEFR,"Marina del Rey, CA",Medium,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.9,Warner Bros. Entertainment,"Burbank, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.4,NTT DATA,"Anaheim, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,5.0,Tapcart,"Santa Monica, CA",Small,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.2,VMware,"Los Angeles, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,3.8,NBCUniversal,"Universal City, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,5.0,Sense360,"Culver City, CA",Small,88000,136000,112000,36.778259,-119.417931
+Data Engineer,2.7,TrueCar,"Santa Monica, CA",Large,88000,136000,112000,36.778259,-119.417931
+Data Engineer,4.4,Direct Agents,"Culver City, CA",Small,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.7,SADA,"Los Angeles, CA",Small,95000,167000,131000,36.778259,-119.417931
+Data Engineer,-1.0,codeSpark,"Pasadena, CA",Small,95000,167000,131000,36.778259,-119.417931
+Data Engineer,3.9,Cedars-Sinai,"Los Angeles, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.4,Direct Agents,"Culver City, CA",Small,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.4,Mt. San Antonio College,"Walnut, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.0,Prosum,"Los Angeles, CA",Medium,95000,167000,131000,36.778259,-119.417931
+Data Engineer,3.9,"Analog Devices, Inc.","Wilmington, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,5.0,ingenium.agency,"Los Angeles, CA",Small,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.7,TEEMA,"Los Angeles, CA",Medium,95000,167000,131000,36.778259,-119.417931
+Data Engineer,3.7,NortonLifeLock,"Culver City, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.8,Agilisium LLC,"Los Angeles, CA",Medium,95000,167000,131000,36.778259,-119.417931
+Data Engineer,-1.0,ingenium.agency,"Los Angeles, CA",Unknown,95000,167000,131000,36.778259,-119.417931
+Data Engineer,4.2,CyberCoders,"Pasadena, CA",Medium,95000,167000,131000,36.778259,-119.417931
+Data Engineer,-1.0,EvolvInc,"Burbank, CA",Small,95000,167000,131000,36.778259,-119.417931
+Data Engineer,3.6,ViacomCBS,"Los Angeles, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,2.0,Ledgent Technology,"Los Angeles, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,3.7,Turner Broadcasting,"Burbank, CA",Large,95000,167000,131000,36.778259,-119.417931
+Data Engineer,-1.0,Trovetechs Inc,"Universal City, CA",Unknown,95000,167000,131000,36.778259,-119.417931
+Data Engineer,-1.0,Bloomstaff,"Los Angeles, CA",Unknown,95000,167000,131000,36.778259,-119.417931
+Data Engineer,-1.0,Bloomstaff,"Los Angeles, CA",Unknown,95000,167000,131000,36.778259,-119.417931
+Data Engineer,3.3,Age of Learning,"Glendale, CA",Large,79000,146000,112500,36.778259,-119.417931
+Data Engineer,3.1,Techstyle Group LLC,"El Segundo, CA",Large,79000,146000,112500,36.778259,-119.417931
+Data Engineer,-1.0,GradTests (gradtests.com.au),"Los Angeles, CA",Unknown,79000,146000,112500,36.778259,-119.417931
+Data Engineer,3.7,mPulse Mobile,"Encino, CA",Small,79000,146000,112500,36.778259,-119.417931
+Data Engineer,-1.0,Sense 360,"Culver City, CA",Unknown,79000,146000,112500,36.778259,-119.417931
+Data Engineer,1.6,"Management Decisions, Inc.","Los Angeles, CA",Small,79000,146000,112500,36.778259,-119.417931
+Data Engineer,-1.0,Eleven Recruiting - CHURN,"El Segundo, CA",Unknown,79000,146000,112500,36.778259,-119.417931
+Data Engineer,-1.0,BlackLine Systems,"Woodland Hills, CA",Small,79000,146000,112500,36.778259,-119.417931
+Data Engineer,4.0,Lorven Technologies Inc,"Burbank, CA",Small,79000,146000,112500,36.778259,-119.417931
+Data Engineer,-1.0,TechStyle Fashion Group,"El Segundo, CA",Unknown,79000,146000,112500,36.778259,-119.417931
+Data Engineer,3.6,J. Paul Getty Trust,"Los Angeles, CA",Large,93000,106000,99500,36.778259,-119.417931
+Data Engineer,3.9,BlackLine,"Woodland Hills, CA",Large,93000,106000,99500,36.778259,-119.417931
+Data Engineer,5.0,WB Technology,"Burbank, CA",Unknown,93000,106000,99500,36.778259,-119.417931
+Data Engineer,-1.0,Eleven Recruiting - CHURN,"El Segundo, CA",Small,93000,106000,99500,36.778259,-119.417931
+Data Engineer,4.2,CyberCoders,"El Segundo, CA",Medium,94000,164000,129000,36.778259,-119.417931
+Data Engineer,3.9,Cedars-Sinai,"Los Angeles, CA",Large,94000,164000,129000,36.778259,-119.417931
+Data Engineer,4.5,Sagence,"Chicago, IL",Small,56000,108000,82000,41.881832,-87.623177
+Data Engineer,3.9,Balyasny Asset Management,"Chicago, IL",Large,56000,108000,82000,41.881832,-87.623177
+Data Engineer,3.9,Capital One,"Chicago, IL",Large,56000,108000,82000,41.881832,-87.623177
+Data Engineer,4.1,VillageMD,"Chicago, IL",Large,56000,108000,82000,41.881832,-87.623177
+Data Engineer,4.7,SADA,"Chicago, IL",Small,56000,108000,82000,41.881832,-87.623177
+Data Engineer,3.7,Riskonnect,"Chicago, IL",Medium,56000,108000,82000,41.881832,-87.623177
+Data Engineer,3.8,Citadel,"Chicago, IL",Large,56000,108000,82000,41.881832,-87.623177
+Data Engineer,3.9,Balyasny Asset Management,"Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.9,Capital One,"Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Data Engineer,5.0,Kalderos,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.8,Mondo,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.7,Capax Global,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.3,Strike Social,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.1,Collabera,"Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.1,Brad's Deals,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.8,Apervita,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.1,Keylent,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,-1.0,Arrive,"Chicago, IL",Unknown,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.8,XSELL Technologies,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,5.0,Zai Global,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.2,RAPP,"Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.2,GoHealth,"Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Data Engineer,3.8,Concurrency,"Chicago, IL",Small,85000,158000,121500,41.881832,-87.623177
+Data Engineer,-1.0,PatientIQ,"Chicago, IL",Unknown,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.0,"Insight Enterprises, Inc.","Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Data Engineer,4.1,VillageMD,"Chicago, IL",Large,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.1,"Relevante, Inc.","Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.6,Signature Consultants,"Chicago, IL",Large,133000,210000,171500,41.881832,-87.623177
+Data Engineer,-1.0,GradTests (gradtests.com.au),"Chicago, IL",Unknown,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.5,PDI,"Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,4.2,Trident Consulting,"Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.6,"Level Ex, Inc.","Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,-1.0,Insight UK,"Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.4,Spectrum Communications and Consulting,"Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.6,Omnitracs,"Chicago, IL",Large,133000,210000,171500,41.881832,-87.623177
+Data Engineer,4.5,Green Key Resources,"Chicago, IL",Medium,133000,210000,171500,41.881832,-87.623177
+Data Engineer,1.6,"Management Decisions, Inc.","Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Data Engineer,3.8,Diversified Services Network,"Chicago, IL",Small,95000,99000,97000,41.881832,-87.623177
+Data Engineer,5.0,CultureFit Technology Staffing,"Chicago, IL",Small,95000,99000,97000,41.881832,-87.623177
+Data Engineer,5.0,SIMPLIFIED IT SOLUTIONS Inc,"Chicago, IL",Small,95000,99000,97000,41.881832,-87.623177
+Data Engineer,2.6,Interior Systems,"Downers Grove, IL",Medium,95000,99000,97000,41.881832,-87.623177
+Data Engineer,3.2,Net2Source Inc.,"Chicago, IL",Large,95000,99000,97000,41.881832,-87.623177
+Data Engineer,-1.0,Multivision Inc-IL,"Elmhurst, IL",Unknown,95000,99000,97000,41.881832,-87.623177
+Data Engineer,3.2,PDI Software,"Chicago, IL",Large,95000,99000,97000,41.881832,-87.623177
+Data Engineer,3.7,Riskonnect,"Chicago, IL",Medium,67000,72000,69500,41.881832,-87.623177
+Data Engineer,4.7,SADA,"Chicago, IL",Small,67000,72000,69500,41.881832,-87.623177
+Data Engineer,3.5,Elkay Manufacturing,"Downers Grove, IL",Large,67000,72000,69500,41.881832,-87.623177
+Data Engineer,3.8,Citadel,"Chicago, IL",Large,81000,100000,90500,41.881832,-87.623177
+Data Engineer,3.3,Trace3,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Data Engineer,3.2,Alphascript Pharmacy,"Houston, TX",Small,94000,107000,100500,31.0,-100.0
+Data Engineer,3.8,Sense Corp,"Houston, TX",Medium,94000,107000,100500,31.0,-100.0
+Data Engineer,4.1,Slalom,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Data Engineer,4.0,Irvine Technology Corporation,"Houston, TX",Medium,94000,107000,100500,31.0,-100.0
+Data Engineer,4.9,Competentia Holding,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Data Engineer,3.9,JPMorgan Chase & Co.,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Data Engineer,-1.0,Walker Elliott,"Houston, TX",Small,94000,107000,100500,31.0,-100.0
+Data Engineer,4.2,VMware,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Data Engineer,3.2,Wise Men Consultants,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Data Engineer,2.5,"TelligenTech, Inc","Houston, TX",Small,94000,107000,100500,31.0,-100.0
+Data Engineer,-1.0,April Health,"Houston, TX",Small,94000,107000,100500,31.0,-100.0
+Data Engineer,3.1,"Alpha Net Consulting, LLC","Houston, TX",Medium,94000,107000,100500,31.0,-100.0
+Data Engineer,4.5,Frontend Arts,"Houston, TX",Small,94000,107000,100500,31.0,-100.0
+Data Engineer,-1.0,m1neral,"Houston, TX",Unknown,94000,107000,100500,31.0,-100.0
+Data Engineer,3.1,PREDICTif Solutions,"Houston, TX",Large,43000,84000,63500,31.0,-100.0
+Data Engineer,3.1,MUFG,"Tempe, AZ",Large,69000,122000,95500,34.048927,-111.093735
+Data Engineer,3.8,IntraEdge,"Scottsdale, AZ",Large,69000,122000,95500,34.048927,-111.093735
+Data Engineer,4.8,Zoom,"Phoenix, AZ",Large,69000,122000,95500,34.048927,-111.093735
+Data Engineer,3.9,"Daman, Inc.","Phoenix, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,4.9,Freestar,"Phoenix, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,4.1,DEREX TECHNOLOGIES INC.,"Phoenix, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,4.4,MSYS Inc.,"Chandler, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,4.7,Digital dhara,"Phoenix, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,4.6,Headfarmer,"Phoenix, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,3.2,Clairvoyant LLC,"Tempe, AZ",Small,69000,122000,95500,34.048927,-111.093735
+Data Engineer,-1.0,Kforce Technology Staffing,"Phoenix, AZ",Unknown,69000,122000,95500,34.048927,-111.093735
+Data Engineer,2.9,Sprouts Farmers Market,"Phoenix, AZ",Large,69000,122000,95500,34.048927,-111.093735
+Data Engineer,3.2,Blue Rose Technologies LLC,"Tempe, AZ",Medium,79000,104000,91500,34.048927,-111.093735
+Data Engineer,-1.0,Terascope,"Phoenix, AZ",Unknown,79000,104000,91500,34.048927,-111.093735
+Data Engineer,3.9,Diverse Lynx,"Phoenix, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Data Engineer,1.6,"Management Decisions, Inc.","Phoenix, AZ",Small,79000,104000,91500,34.048927,-111.093735
+Data Engineer,3.3,Swift Refrigerated,"Phoenix, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Data Engineer,4.3,22nd Century Staffing,"Phoenix, AZ",Small,79000,104000,91500,34.048927,-111.093735
+Data Engineer,4.0,GTN Technical Staffing,"Phoenix, AZ",Medium,79000,104000,91500,34.048927,-111.093735
+Data Engineer,3.4,VincentBenjamin,"Phoenix, AZ",Small,79000,104000,91500,34.048927,-111.093735
+Data Engineer,4.1,Kforce,"Phoenix, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Data Engineer,4.3,PeopleNTech LLC,"Chandler, AZ",Small,79000,104000,91500,34.048927,-111.093735
+Data Engineer,-1.0,Vegatron Systems,"Scottsdale, AZ",Unknown,79000,104000,91500,34.048927,-111.093735
+Data Engineer,3.5,The Judge Group,"Tempe, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Data Engineer,3.2,Net2Source,"Phoenix, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Data Engineer,2.9,circle k,"Tempe, AZ",Large,81000,141000,111000,34.048927,-111.093735
+Data Engineer,3.8,IntraEdge,"Scottsdale, AZ",Large,87000,104000,95500,34.048927,-111.093735
+Data Engineer,4.6,STEVENS CAPITAL MANAGEMENT LP,"Philadelphia, PA",Small,65000,101000,83000,41.203323,-77.194527
+Data Engineer,5.0,Maestro Technologies,"Wilmington, DE",Small,65000,101000,83000,39.0,-75.5
+Data Engineer,3.8,Mondo,"Philadelphia, PA",Small,65000,101000,83000,41.203323,-77.194527
+Data Engineer,4.3,NextGen Global Resources,"Philadelphia, PA",Large,65000,101000,83000,41.203323,-77.194527
+Data Engineer,3.9,GSK,"Philadelphia, PA",Large,65000,101000,83000,41.203323,-77.194527
+Data Engineer,3.4,"Digital Intelligence Systems, LLC","Philadelphia, PA",Large,65000,101000,83000,41.203323,-77.194527
+Data Engineer,3.5,Slyce,"Philadelphia, PA",Small,65000,101000,83000,41.203323,-77.194527
+Data Engineer,-1.0,Perpay,"Philadelphia, PA",Small,65000,101000,83000,41.203323,-77.194527
+Data Engineer,3.4,Gopuff,"Philadelphia, PA",Large,65000,101000,83000,41.203323,-77.194527
+Data Engineer,3.2,"Numeric, LLC","King of Prussia, PA",Small,94000,166000,130000,41.203323,-77.194527
+Data Engineer,3.0,RennerBrown,"Philadelphia, PA",Unknown,94000,166000,130000,41.203323,-77.194527
+Data Engineer,3.0,Ettain Group,"Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Data Engineer,4.6,Turnberry Solutions,"Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Data Engineer,3.8,US Tech Solutions Inc.,"Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Data Engineer,3.4,Globex Digital Solutions,"Philadelphia, PA",Small,94000,166000,130000,41.203323,-77.194527
+Data Engineer,3.6,Philadelphia District Attorney's Office,"Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Data Engineer,3.5,"The Judge Group, Inc.","Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Data Engineer,5.0,HealthVerity,"Philadelphia, PA",Small,94000,166000,130000,41.203323,-77.194527
+Data Engineer,4.2,IntePros,"Philadelphia, PA",Medium,94000,166000,130000,41.203323,-77.194527
+Data Engineer,4.4,Intone Networks Inc,"Malvern, PA",Medium,94000,166000,130000,41.203323,-77.194527
+Data Engineer,-1.0,DL Staffing Solutions,"Philadelphia, PA",Unknown,94000,166000,130000,41.203323,-77.194527
+Data Engineer,4.8,System Soft Technologies,"Cherry Hill, NJ",Medium,94000,166000,130000,39.833851,-74.871826
+Data Engineer,3.9,AETEA Information Technology Inc,"Wilmington, DE",Medium,94000,166000,130000,39.0,-75.5
+Data Engineer,3.9,Artech LLC,"Wilmington, DE",Large,57000,108000,82500,39.0,-75.5
+Data Engineer,3.0,The Accuro Group,"Malvern, PA",Medium,57000,108000,82500,41.203323,-77.194527
+Data Engineer,-1.0,Tek Pyramids Inc,"Wilmington, DE",Unknown,54000,104000,79000,39.0,-75.5
+Data Engineer,3.1,Strategic Staffing Solutions,"Wilmington, DE",Large,54000,104000,79000,39.0,-75.5
+Data Engineer,3.1,Group O,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,3.9,"Daman, Inc.","San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,3.5,"York Solutions, LLC","San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,3.2,iHeartMedia,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,4.5,Scaleworks,"San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,4.3,H E B,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,4.0,Reliable Software Resources,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,3.4,OptumCare,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,3.4,Guidehouse,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,2.5,nfolks,"San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,3.2,Navigant Consulting,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,4.5,B.E.A.T.,"San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,3.8,Speridian Technologies LLC,"San Antonio, TX",Large,74000,93000,83500,31.0,-100.0
+Data Engineer,3.0,Deacon Recruiting,"San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,4.9,B E A T LLC,"San Antonio, TX",Small,74000,93000,83500,31.0,-100.0
+Data Engineer,-1.0,GradTests (gradtests.com.au),"San Antonio, TX",Unknown,74000,93000,83500,31.0,-100.0
+Data Engineer,2.9,"NTT DATA, Inc.","San Antonio, TX",Medium,74000,93000,83500,31.0,-100.0
+Data Engineer,4.5,CrowdRise,"San Diego, CA",Medium,77000,181000,129000,36.778259,-119.417931
+Data Engineer,3.9,Mercato,"San Diego, CA",Small,77000,181000,129000,36.778259,-119.417931
+Data Engineer,3.9,Kaygen Inc,"San Diego, CA",Small,77000,181000,129000,36.778259,-119.417931
+Data Engineer,3.3,SmartDrive Systems,"San Diego, CA",Medium,77000,181000,129000,36.778259,-119.417931
+Data Engineer,3.8,StepStone,"La Jolla, CA",Large,77000,181000,129000,36.778259,-119.417931
+Data Engineer,4.0,Itility,"San Diego, CA",Small,77000,181000,129000,36.778259,-119.417931
+Data Engineer,4.0,Curemetrix,"San Diego, CA",Small,77000,181000,129000,36.778259,-119.417931
+Data Engineer,3.4,Axos Bank,"San Diego, CA",Large,77000,181000,129000,36.778259,-119.417931
+Data Engineer,4.0,CYNET SYSTEMS,"San Diego, CA",Large,77000,181000,129000,36.778259,-119.417931
+Data Engineer,3.1,Logic Planet,"San Diego, CA",Medium,113000,198000,155500,36.778259,-119.417931
+Data Engineer,3.8,Sense Corp,"Dallas, TX",Medium,64000,124000,94000,31.0,-100.0
+Data Engineer,3.9,Capital One,"Plano, TX",Large,64000,124000,94000,31.0,-100.0
+Data Engineer,4.6,Vinli,"Dallas, TX",Small,64000,124000,94000,31.0,-100.0
+Data Engineer,-1.0,Iconic Technology Group,"Dallas, TX",Small,64000,124000,94000,31.0,-100.0
+Data Engineer,-1.0,AdvanceSoft Inc,"Plano, TX",Small,64000,124000,94000,31.0,-100.0
+Data Engineer,4.5,Athreya Inc,"Dallas, TX",Small,64000,124000,94000,31.0,-100.0
+Data Engineer,4.0,"Object Technology Solutions, Inc.","Irving, TX",Small,64000,124000,94000,31.0,-100.0
+Data Engineer,-1.0,Palnar,"Plano, TX",Medium,64000,124000,94000,31.0,-100.0
+Data Engineer,3.8,InnovAccer,"Dallas, TX",Large,64000,124000,94000,31.0,-100.0
+Data Engineer,3.0,"Central Business Solutions, Inc","Dallas, TX",Small,64000,124000,94000,31.0,-100.0
+Data Engineer,3.9,Capital One,"Plano, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.7,"DataSys Consulting and Software, Inc","Dallas, TX",Small,66000,113000,89500,31.0,-100.0
+Data Engineer,-1.0,IT Minds LLC,"Dallas, TX",Small,66000,113000,89500,31.0,-100.0
+Data Engineer,3.3,"V.L.S. Systems, Inc","Plano, TX",Medium,66000,113000,89500,31.0,-100.0
+Data Engineer,4.1,Collabera,"Plano, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.3,Vaco Financial,"Dallas, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.9,Diverse Lynx,"Plano, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,4.0,"Central Business Solutions, Inc","Dallas, TX",Small,66000,113000,89500,31.0,-100.0
+Data Engineer,3.4,IQuest Solutions Corp,"Plano, TX",Small,66000,113000,89500,31.0,-100.0
+Data Engineer,3.9,JPMorgan Chase & Co.,"Lewisville, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.4,NTT DATA Corporation,"Irving, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.5,Tek Leaders,"Plano, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.0,Photon Infotech,"Irving, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,4.4,InfoVision,"Plano, TX",Large,66000,113000,89500,31.0,-100.0
+Data Engineer,3.9,Jnit Technologies,"Plano, TX",Small,105000,110000,107500,31.0,-100.0
+Data Engineer,4.6,"HumCap, Inc.","Allen, TX",Small,105000,110000,107500,31.0,-100.0
+Data Engineer,3.3,loanDepot,"Plano, TX",Large,105000,110000,107500,31.0,-100.0
+Data Engineer,3.7,Fairway Independent Mortgage,"Carrollton, TX",Large,105000,110000,107500,31.0,-100.0
+Data Engineer,5.0,Georgia IT Inc.,"Plano, TX",Small,105000,110000,107500,31.0,-100.0
+Data Engineer,3.2,Net2Source,"Richardson, TX",Large,60000,109000,84500,31.0,-100.0
+Data Engineer,4.0,Lorven Technologies Inc,"Plano, TX",Small,60000,109000,84500,31.0,-100.0
+Data Engineer,2.4,Loan Depot,"Plano, TX",Small,60000,109000,84500,31.0,-100.0
+Data Engineer,3.8,Juniper Networks,"Cupertino, CA",Large,91000,166000,128500,36.778259,-119.417931
+Data Engineer,4.8,AppLovin,"Palo Alto, CA",Medium,91000,166000,128500,36.778259,-119.417931
+Data Engineer,3.8,eHealth,"Santa Clara, CA",Large,91000,166000,128500,36.778259,-119.417931
+Data Engineer,4.4,Telaria,"Mountain View, CA",Small,91000,166000,128500,36.778259,-119.417931
+Data Engineer,4.7,Applied Intuition,"Sunnyvale, CA",Small,164000,192000,178000,36.778259,-119.417931
+Data Engineer,3.9,PayPal,"San Jose, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,3.9,BlackLine,"Pleasanton, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.0,Flexton,"Santa Clara, CA",Small,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.1,Apple,"Santa Clara, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.1,Slalom LLC.,"San Jose, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.6,Confluent,"Mountain View, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.4,Google,"Redwood City, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,1.0,"EA Team, Inc.","Mountain View, CA",Small,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.0,CrowdStrike,"Sunnyvale, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.5,Facebook,"Menlo Park, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,3.1,FOCUSKPI INC,"Mountain View, CA",Small,164000,192000,178000,36.778259,-119.417931
+Data Engineer,3.7,ServiceNow,"Santa Clara, CA",Large,164000,192000,178000,36.778259,-119.417931
+Data Engineer,3.3,Synectics,"Sunnyvale, CA",Medium,164000,192000,178000,36.778259,-119.417931
+Data Engineer,3.7,Decision Minds,"Menlo Park, CA",Small,164000,192000,178000,36.778259,-119.417931
+Data Engineer,4.8,AppLovin,"Palo Alto, CA",Medium,108000,199000,153500,36.778259,-119.417931
+Data Engineer,3.7,Decision Minds,"Menlo Park, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.0,CYNET SYSTEMS,"Milpitas, CA",Large,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.9,DeepMap,"Palo Alto, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,2.5,Petuum,"Sunnyvale, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,5.0,Indrasol,"Menlo Park, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,3.9,Grid Dynamics,"Mountain View, CA",Large,108000,199000,153500,36.778259,-119.417931
+Data Engineer,2.3,WE Career,"Mountain View, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.2,CyberCoders,"Redwood City, CA",Medium,108000,199000,153500,36.778259,-119.417931
+Data Engineer,3.6,Trianz,"Santa Clara, CA",Large,108000,199000,153500,36.778259,-119.417931
+Data Engineer,3.0,Sonus Software Solutions Inc.,"Sunnyvale, CA",Unknown,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.2,Nextgen Technologies,"San Jose, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,-1.0,Trovetechs Inc,"Mountain View, CA",Unknown,108000,199000,153500,36.778259,-119.417931
+Data Engineer,3.5,Saama,"Campbell, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,3.4,Mackin,"Menlo Park, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.1,IntelliPro Group Inc.,"Sunnyvale, CA",Medium,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.6,"Conch Technologies, Inc","San Jose, CA",Small,108000,199000,153500,36.778259,-119.417931
+Data Engineer,4.1,Shape Security,"Santa Clara, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.1,hiretual.com,"Mountain View, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,4.6,otsi,"Fremont, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,4.7,Sharpedge Solutions Inc,"Menlo Park, CA",Unknown,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.1,Safeway Inc,"Pleasanton, CA",Large,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.9,Nyansa,"Palo Alto, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,4.0,Quantum World Technologies Inc,"Menlo Park, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.9,Diverse Lynx,"San Jose, CA",Large,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.9,"Aptude, Inc","Menlo Park, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.7,"Redolent, Inc","Sunnyvale, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,4.0,"Central Business Solutions, Inc","San Jose, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,4.0,"Object Technology Solutions, Inc.","Fremont, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.3,Itility,"San Jose, CA",Small,77000,145000,111000,36.778259,-119.417931
+Data Engineer,3.8,eHealth,"Santa Clara, CA",Large,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.3,Albertsons Companies,"Pleasanton, CA",Large,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.9,Technovert,"Menlo Park, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,Boston Services,"San Jose, CA",Unknown,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,Mobiveil Technologies Inc.,"San Jose, CA",Unknown,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,GradTests (gradtests.com.au),"San Jose, CA",Unknown,54000,103000,78500,36.778259,-119.417931
+Data Engineer,4.0,"LotusFlare, Inc.","Sunnyvale, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.0,Best High Technologies,"Mountain View, CA",Medium,54000,103000,78500,36.778259,-119.417931
+Data Engineer,5.0,Braintree Technology Solutions,"Menlo Park, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,Kforce Technology Staffing,"Mountain View, CA",Unknown,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.6,Xoriant Corporation,"Sunnyvale, CA",Large,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.9,K-Tek Resourcing LLC,"Fremont, CA",Medium,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.4,Saama Technologies Inc,"Campbell, CA",Large,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.4,Globex Digital Solutions,"Sunnyvale, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,PETADATA,"Fremont, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,4.6,Maania Consultancy Services,"Sunnyvale, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,4.9,"Amick Brown, LLC","Sunnyvale, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.5,Robert Half,"Sunnyvale, CA",Large,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,Trovetechs Inc,"Mountain View, CA",Unknown,54000,103000,78500,36.778259,-119.417931
+Data Engineer,3.2,Calsoft Labs,"Sunnyvale, CA",Large,54000,103000,78500,36.778259,-119.417931
+Data Engineer,4.5,Frontend Arts,"Sunnyvale, CA",Small,54000,103000,78500,36.778259,-119.417931
+Data Engineer,-1.0,Ertino Inc,"Menlo Park, CA",Unknown,54000,103000,78500,36.778259,-119.417931
+Data Engineer,4.4,Telaria,"Mountain View, CA",Small,108000,127000,117500,36.778259,-119.417931
+Data Engineer,5.0,pddninc.net,"Sunnyvale, CA",Small,108000,127000,117500,36.778259,-119.417931
+Data Engineer,3.8,VLink Inc,"Menlo Park, CA",Medium,108000,127000,117500,36.778259,-119.417931
+Data Engineer,-1.0,TEK NINJAS,"Menlo Park, CA",Small,108000,127000,117500,36.778259,-119.417931
+Data Engineer,-1.0,pddninc.net,"Sunnyvale, CA",Unknown,108000,127000,117500,36.778259,-119.417931
+Data Engineer,4.0,New York Technology Partners,"Menlo Park, CA",Small,108000,127000,117500,36.778259,-119.417931
+Data Engineer,-1.0,FutureSoft IT,"Sunnyvale, CA",Unknown,108000,127000,117500,36.778259,-119.417931
+Data Engineer,3.2,Yochana,"Sunnyvale, CA",Medium,108000,127000,117500,36.778259,-119.417931
+Data Engineer,4.1,Kforce,"Mountain View, CA",Large,108000,127000,117500,36.778259,-119.417931
+Data Engineer,3.5,HCL America Inc.,"Menlo Park, CA",Large,108000,127000,117500,36.778259,-119.417931
+Data Engineer,4.0,Lorven Technologies Inc,"Sunnyvale, CA",Small,108000,127000,117500,36.778259,-119.417931
+Data Engineer,3.0,Intelliswift Software Inc,"Sunnyvale, CA",Medium,108000,127000,117500,36.778259,-119.417931
+Data Engineer,3.9,B-Stock Solutions,"Belmont, CA",Small,108000,127000,117500,36.778259,-119.417931
+Data Engineer,-1.0,"Applicantz, Inc.","Menlo Park, CA",Small,100000,181000,140500,36.778259,-119.417931
+Data Engineer,-1.0,Stride Search,"Redwood City, CA",Small,100000,181000,140500,36.778259,-119.417931
+Data Engineer,3.8,Apex Systems,"Menlo Park, CA",Large,100000,181000,140500,36.778259,-119.417931
+Data Engineer,3.9,Balyasny Asset Management,"Austin, TX",Large,88000,163000,125500,31.0,-100.0
+Data Engineer,4.7,SADA,"Austin, TX",Small,88000,163000,125500,31.0,-100.0
+Data Engineer,3.9,Amazon,"Austin, TX",Large,88000,163000,125500,31.0,-100.0
+Data Engineer,4.1,Apple,"Austin, TX",Large,88000,163000,125500,31.0,-100.0
+Data Engineer,4.2,RunTitle,"Austin, TX",Small,88000,163000,125500,31.0,-100.0
+Data Engineer,4.4,Tachyon Technologies,"Austin, TX",Medium,88000,163000,125500,31.0,-100.0
+Data Engineer,3.8,Sense Corp,"Austin, TX",Medium,88000,163000,125500,31.0,-100.0
+Data Engineer,4.9,"Treehouse Technology Group, LLC","Austin, TX",Small,88000,163000,125500,31.0,-100.0
+Data Engineer,3.8,"Pilytix, LLC","Austin, TX",Small,88000,163000,125500,31.0,-100.0
+Data Engineer,3.2,"Phunware, Inc","Austin, TX",Small,79000,96000,87500,31.0,-100.0
+Data Engineer,4.8,"EtiVenture, Inc.","Austin, TX",Small,79000,96000,87500,31.0,-100.0
+Data Engineer,4.0,LMI,"Austin, TX",Large,79000,96000,87500,31.0,-100.0
+Data Engineer,4.2,Procore Technologies,"Austin, TX",Large,79000,96000,87500,31.0,-100.0
+Data Engineer,3.5,Atos Syntel Inc.,"Austin, TX",Large,79000,96000,87500,31.0,-100.0
+Data Engineer,3.9,Octo Consulting Group,"Austin, TX",Large,79000,96000,87500,31.0,-100.0
+Data Engineer,4.0,WorldQuant,"Austin, TX",Large,79000,96000,87500,31.0,-100.0
+Data Engineer,3.4,OBXtek,"Austin, TX",Large,79000,96000,87500,31.0,-100.0
+Data Engineer,4.2,NRCCUA,"Austin, TX",Small,79000,96000,87500,31.0,-100.0
+Data Engineer,-1.0,"Integrated Technology Strategies, Inc.","Austin, TX",Small,79000,96000,87500,31.0,-100.0
+Data Engineer,-1.0,BuildGroup Data Services,"Austin, TX",Unknown,79000,96000,87500,31.0,-100.0
+Data Engineer,4.7,SADA,"Austin, TX",Small,99000,177000,138000,31.0,-100.0
+Data Engineer,3.3,Pro-Sphere Tek,"Austin, TX",Medium,99000,177000,138000,31.0,-100.0
+Data Engineer,-1.0,Nigel Frank International US,"Austin, TX",Large,67000,126000,96500,31.0,-100.0
+Data Engineer,4.1,APN Software Services Inc.,"Round Rock, TX",Small,67000,126000,96500,31.0,-100.0
+Data Engineer,3.8,Clearsense,"Jacksonville, FL",Small,27000,50000,38500,27.994402,-81.760254
+Data Engineer,4.3,TekPartners,"Jacksonville, FL",Large,27000,50000,38500,27.994402,-81.760254
+Data Engineer,-1.0,GradTests (gradtests.com.au),"Jacksonville, FL",Unknown,27000,50000,38500,27.994402,-81.760254
+Data Engineer,5.0,"Amvotech Solutions, Inc","Fort Worth, TX",Small,65000,120000,92500,31.0,-100.0
+Data Engineer,-1.0,Headway Tek Inc,"Fort Worth, TX",Unknown,65000,120000,92500,31.0,-100.0
+Data Engineer,4.0,"Object Technology Solutions, Inc.","Irving, TX",Small,65000,120000,92500,31.0,-100.0
+Data Engineer,3.3,NT Concepts,"Fort Worth, TX",Large,65000,120000,92500,31.0,-100.0
+Data Engineer,3.5,Tek Leaders,"Fort Worth, TX",Large,65000,120000,92500,31.0,-100.0
+Data Engineer,3.4,NTT DATA Corporation,"Irving, TX",Large,65000,120000,92500,31.0,-100.0
+Data Engineer,3.0,Photon Infotech,"Irving, TX",Large,65000,120000,92500,31.0,-100.0
+Software Engineer,3.9,Verra Mobility,"Jersey City, NJ",Large,80000,150000,115000,39.833851,-74.871826
+Software Engineer,4.8,Reaktor,"New York, NY",Large,73000,94000,83500,40.73061,-73.935242
+Software Engineer,3.5,The Play Station,"Los Angeles, CA",Large,93000,106000,99500,36.778259,-119.417931
+Software Engineer,3.4,Aerotek,"Pasadena, CA",Large,115000,201000,158000,36.778259,-119.417931
+Software Engineer,5.0,Epirus,"Los Angeles, CA",Small,115000,201000,158000,36.778259,-119.417931
+Software Engineer,5.0,Relativity Space,"Los Angeles, CA",Small,115000,201000,158000,36.778259,-119.417931
+Software Engineer,3.4,Echo Global Logistics,"Chicago, IL",Large,85000,158000,121500,41.881832,-87.623177
+Software Engineer,4.3,Strata Decision Technology,"Chicago, IL",Medium,133000,210000,171500,41.881832,-87.623177
+Software Engineer,5.0,SimpleLegal,"Houston, TX",Small,94000,107000,100500,31.0,-100.0
+Software Engineer,3.8,Oceanit,"Houston, TX",Small,43000,84000,63500,31.0,-100.0
+Software Engineer,4.9,Project Ronin,"Houston, TX",Small,62000,92000,77000,31.0,-100.0
+Software Engineer,4.9,Liongard,"Houston, TX",Small,62000,92000,77000,31.0,-100.0
+Software Engineer,4.2,CyberCoders,"Houston, TX",Medium,55000,106000,80500,31.0,-100.0
+Software Engineer,3.9,JPMorgan Chase & Co.,"Houston, TX",Large,55000,106000,80500,31.0,-100.0
+Software Engineer,3.6,Drilling Info,"Houston, TX",Large,55000,106000,80500,31.0,-100.0
+Software Engineer,4.4,Ikon Tech,"Houston, TX",Small,55000,106000,80500,31.0,-100.0
+Software Engineer,4.0,Tres Solutions,"Houston, TX",Small,55000,106000,80500,31.0,-100.0
+Software Engineer,2.0,GMV Syncromatics,"Houston, TX",Small,69000,103000,86000,31.0,-100.0
+Software Engineer,3.7,Barrios Technology,"Houston, TX",Large,69000,103000,86000,31.0,-100.0
+Software Engineer,3.7,All Points Logistics,"Houston, TX",Small,69000,103000,86000,31.0,-100.0
+Software Engineer,4.3,Invoice Cloud,"Houston, TX",Small,69000,103000,86000,31.0,-100.0
+Software Engineer,-1.0,Sinopec Tech Houston,"Houston, TX",Small,69000,103000,86000,31.0,-100.0
+Software Engineer,4.0,Visionet Systems,"Houston, TX",Large,54000,113000,83500,31.0,-100.0
+Software Engineer,3.0,The Premier Resources Group,"Houston, TX",Small,54000,113000,83500,31.0,-100.0
+Software Engineer,3.9,K-Tek Resourcing LLC,"Houston, TX",Medium,74000,123000,98500,31.0,-100.0
+Software Engineer,3.1,MUFG,"Tempe, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Software Engineer,3.8,IntraEdge,"Phoenix, AZ",Large,79000,104000,91500,34.048927,-111.093735
+Software Engineer,5.0,Proctorio,"Scottsdale, AZ",Small,87000,104000,95500,34.048927,-111.093735
+Software Engineer,4.3,Redwood Dental,"Phoenix, AZ",Medium,87000,104000,95500,34.048927,-111.093735
+Software Engineer,3.2,Synchronoss,"Phoenix, AZ",Large,87000,104000,95500,34.048927,-111.093735
+Software Engineer,3.5,Andiamo,"Phoenix, AZ",Medium,73000,126000,99500,34.048927,-111.093735
+Software Engineer,4.9,"Atrilogy Solutions Group, Inc.","Phoenix, AZ",Small,74000,145000,109500,34.048927,-111.093735
+Software Engineer,3.2,Limelight Networks,"Tempe, AZ",Large,118000,187000,152500,34.048927,-111.093735
+Software Engineer,3.2,Cerebrum,"Chandler, AZ",Small,57000,92000,74500,34.048927,-111.093735
+Software Engineer,3.9,AWeber,"Philadelphia, PA",Small,65000,101000,83000,41.203323,-77.194527
+Software Engineer,4.4,Talend,"Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Software Engineer,3.8,Subaru of America,"Camden, NJ",Large,57000,108000,82500,39.833851,-74.871826
+Software Engineer,4.6,Azavea,"Philadelphia, PA",Small,57000,108000,82500,41.203323,-77.194527
+Software Engineer,3.7,Creative Circle,"Philadelphia, PA",Medium,54000,104000,79000,41.203323,-77.194527
+Software Engineer,-1.0,KickUp,"Philadelphia, PA",Small,54000,104000,79000,41.203323,-77.194527
+Software Engineer,3.5,General Dynamics,"Philadelphia, PA",Large,55000,105000,80000,41.203323,-77.194527
+Software Engineer,3.1,Nanthealth,"Philadelphia, PA",Medium,55000,105000,80000,41.203323,-77.194527
+Software Engineer,4.5,OPEX Corporation,"Moorestown, NJ",Large,55000,105000,80000,39.833851,-74.871826
+Software Engineer,4.3,Group K Diagnostics,"Philadelphia, PA",Small,71000,130000,100500,41.203323,-77.194527
+Software Engineer,-1.0,American Water Works Service Company Inc,"Camden, NJ",Unknown,71000,130000,100500,39.833851,-74.871826
+Software Engineer,3.5,General Dynamics Information Technology,"Philadelphia, PA",Large,71000,130000,100500,41.203323,-77.194527
+Software Engineer,4.9,Gnostech,"Moorestown, NJ",Small,71000,130000,100500,39.833851,-74.871826
+Software Engineer,3.4,Gopuff,"Philadelphia, PA",Large,154000,281000,217500,41.203323,-77.194527
+Software Engineer,4.3,Redwood Dental,"San Antonio, TX",Medium,75000,135000,105000,31.0,-100.0
+Software Engineer,4.3,Vizrt,"San Antonio, TX",Large,75000,135000,105000,31.0,-100.0
+Software Engineer,3.7,22nd Century Technologies,"San Antonio, TX",Large,28000,53000,40500,31.0,-100.0
+Software Engineer,3.3,Abacus Technology,"San Antonio, TX",Large,28000,53000,40500,31.0,-100.0
+Software Engineer,4.1,"Vistronix, Inc.","San Diego, CA",Large,79000,132000,105500,36.778259,-119.417931
+Software Engineer,3.7,Teradata Corporation,"San Diego, CA",Large,79000,132000,105500,36.778259,-119.417931
+Software Engineer,4.1,ResMed,"San Diego, CA",Large,79000,132000,105500,36.778259,-119.417931
+Software Engineer,2.6,Quidel Corporation,"San Diego, CA",Large,79000,132000,105500,36.778259,-119.417931
+Software Engineer,3.7,ServiceNow,"San Diego, CA",Large,79000,132000,105500,36.778259,-119.417931
+Software Engineer,4.6,SoftClouds,"San Diego, CA",Small,79000,132000,105500,36.778259,-119.417931
+Software Engineer,3.9,"TEKsystems, Inc","San Diego, CA",Large,191000,217000,204000,36.778259,-119.417931
+Software Engineer,4.0,Sandbox Banking,"San Diego, CA",Small,191000,217000,204000,36.778259,-119.417931
+Software Engineer,-1.0,"Venator Solutions, LLC","San Diego, CA",Unknown,191000,217000,204000,36.778259,-119.417931
+Software Engineer,3.2,sensemetrics,"San Diego, CA",Small,191000,217000,204000,36.778259,-119.417931
+Software Engineer,4.9,Jobot,"San Diego, CA",Small,191000,217000,204000,36.778259,-119.417931
+Software Engineer,3.8,LanceSoft Inc,"San Diego, CA",Large,191000,217000,204000,36.778259,-119.417931
+Software Engineer,3.9,Forward Slope Inc.,"San Diego, CA",Small,191000,217000,204000,36.778259,-119.417931
+Software Engineer,3.1,SOLUTE,"San Diego, CA",Small,191000,217000,204000,36.778259,-119.417931
+Software Engineer,3.8,CliniComp,"San Diego, CA",Small,140000,151000,145500,36.778259,-119.417931
+Software Engineer,3.8,Northrop Grumman,"San Diego, CA",Large,140000,151000,145500,36.778259,-119.417931
+Software Engineer,3.4,ASRC Federal Holding Company,"San Diego, CA",Large,140000,151000,145500,36.778259,-119.417931
+Software Engineer,-1.0,Advanced Sciences and Technologies (AS&T),"San Diego, CA",Unknown,106000,127000,116500,36.778259,-119.417931
+Software Engineer,3.8,Juniper Networks,"Sunnyvale, CA",Large,91000,166000,128500,36.778259,-119.417931
+Software Engineer,3.2,Accuracy,"Sunnyvale, CA",Large,108000,199000,153500,36.778259,-119.417931
+Software Engineer,5.0,SimpleLegal,"Mountain View, CA",Small,77000,145000,111000,36.778259,-119.417931
+Software Engineer,3.4,ShipStation,"Austin, TX",Small,79000,96000,87500,31.0,-100.0
+Software Engineer,3.8,eHealth,"Austin, TX",Large,99000,177000,138000,31.0,-100.0
+Software Engineer,3.5,Braintree,"Austin, TX",Large,99000,177000,138000,31.0,-100.0
+Software Engineer,3.1,Dun & Bradstreet,"Austin, TX",Large,67000,126000,96500,31.0,-100.0
+Software Engineer,4.1,Apple,"Austin, TX",Large,67000,126000,96500,31.0,-100.0
+Software Engineer,4.0,REX,"Austin, TX",Small,67000,126000,96500,31.0,-100.0
+Software Engineer,3.6,Ultra,"Austin, TX",Large,67000,126000,96500,31.0,-100.0
+Software Engineer,3.9,Amazon,"Austin, TX",Large,67000,126000,96500,31.0,-100.0
+Software Engineer,3.4,Vertiv Co,"Austin, TX",Large,82000,130000,106000,31.0,-100.0
+Software Engineer,3.6,FIS,"Austin, TX",Large,82000,130000,106000,31.0,-100.0
+Software Engineer,3.6,Home Depot,"Austin, TX",Large,82000,130000,106000,31.0,-100.0
+Software Engineer,4.6,"Open Systems, Inc.","Austin, TX",Small,82000,130000,106000,31.0,-100.0
+Software Engineer,-1.0,Inverselogix,"Jacksonville, FL",Unknown,27000,50000,38500,27.994402,-81.760254
+Software Engineer,3.8,Lockheed Martin,"Fort Worth, TX",Large,60000,109000,84500,31.0,-100.0
+Software Engineer,5.0,Koddi,"Fort Worth, TX",Small,60000,109000,84500,31.0,-100.0
+Software Engineer,3.5,Wabtec Corporation,"Fort Worth, TX",Large,30000,60000,45000,31.0,-100.0
+Software Engineer,3.7,Pixentia,"Irving, TX",Small,30000,60000,45000,31.0,-100.0
+Software Engineer,4.6,"HumCap, Inc.","Arlington, TX",Small,30000,60000,45000,31.0,-100.0
+Software Engineer,3.6,Gartner,"Arlington, TX",Large,30000,60000,45000,31.0,-100.0
+Software Engineer,4.3,ConsultAdd,"Irving, TX",Small,48000,74000,61000,31.0,-100.0
+Big Data Engineer,3.9,Amazon,"New York, NY",Large,105000,121000,113000,40.73061,-73.935242
+Big Data Engineer,-1.0,Trovetechs Inc,"Los Angeles, CA",Unknown,115000,201000,158000,36.778259,-119.417931
+Big Data Engineer,3.3,PROLIM Global Corporation,"Burbank, CA",Medium,94000,164000,129000,36.778259,-119.417931
+Big Data Engineer,1.6,"Management Decisions, Inc.","Los Angeles, CA",Small,94000,164000,129000,36.778259,-119.417931
+Big Data Engineer,4.5,Involgix,"Chicago, IL",Small,133000,210000,171500,41.881832,-87.623177
+Big Data Engineer,4.5,Involgix,"Chicago, IL",Small,95000,99000,97000,41.881832,-87.623177
+Big Data Engineer,4.1,Collabera,"Chicago, IL",Large,95000,99000,97000,41.881832,-87.623177
+Big Data Engineer,3.9,Edgilent Corp.,"Chicago, IL",Small,67000,72000,69500,41.881832,-87.623177
+Big Data Engineer,5.0,VDeploy Consulting LLC,"Chicago, IL",Small,67000,72000,69500,41.881832,-87.623177
+Big Data Engineer,4.8,Sky Consulting Inc,"Chicago, IL",Small,53000,100000,76500,41.881832,-87.623177
+Big Data Engineer,-1.0,LiniumIT,"Chicago, IL",Unknown,53000,100000,76500,41.881832,-87.623177
+Big Data Engineer,3.3,Mindteck,"Houston, TX",Large,94000,107000,100500,31.0,-100.0
+Big Data Engineer,3.5,Robert Half,"Houston, TX",Large,43000,84000,63500,31.0,-100.0
+Big Data Engineer,3.8,IDC Technologies,"Houston, TX",Large,43000,84000,63500,31.0,-100.0
+Big Data Engineer,3.8,IntraEdge,"Phoenix, AZ",Large,69000,122000,95500,34.048927,-111.093735
+Big Data Engineer,4.1,Sysmind LLC,"Phoenix, AZ",Small,81000,141000,111000,34.048927,-111.093735
+Big Data Engineer,3.6,Xoriant Corporation,"Phoenix, AZ",Large,81000,141000,111000,34.048927,-111.093735
+Big Data Engineer,2.9,Impetus,"Phoenix, AZ",Unknown,81000,141000,111000,34.048927,-111.093735
+Big Data Engineer,4.0,ISGIT,"Phoenix, AZ",Small,81000,141000,111000,34.048927,-111.093735
+Big Data Engineer,3.9,Diverse Lynx,"Phoenix, AZ",Large,87000,104000,95500,34.048927,-111.093735
+Big Data Engineer,-1.0,Callibus Inc,"Phoenix, AZ",Unknown,87000,104000,95500,34.048927,-111.093735
+Big Data Engineer,4.0,Lorven Technologies Inc,"Phoenix, AZ",Small,87000,104000,95500,34.048927,-111.093735
+Big Data Engineer,-1.0,"STM Consulting, Inc.","Phoenix, AZ",Unknown,87000,104000,95500,34.048927,-111.093735
+Big Data Engineer,3.7,Impetus Technologies,"Phoenix, AZ",Large,73000,126000,99500,34.048927,-111.093735
+Big Data Engineer,3.8,IntraEdge,"Phoenix, AZ",Large,58000,94000,76000,34.048927,-111.093735
+Big Data Engineer,3.5,Robert Half,"Philadelphia, PA",Large,94000,166000,130000,41.203323,-77.194527
+Big Data Engineer,4.6,Tiger Analytics,"Newtown, PA",Medium,55000,105000,80000,41.203323,-77.194527
+Big Data Engineer,4.4,Softcom Systems,"King of Prussia, PA",Small,55000,105000,80000,41.203323,-77.194527
+Big Data Engineer,3.9,ApTask,"Wilmington, DE",Medium,55000,105000,80000,39.0,-75.5
+Big Data Engineer,2.6,Omega Solutions Inc,"Wilmington, DE",Small,55000,105000,80000,39.0,-75.5
+Big Data Engineer,3.7,"Pyramid Consulting, Inc","Wilmington, DE",Large,154000,281000,217500,39.0,-75.5
+Big Data Engineer,3.8,Inseego,"San Diego, CA",Large,113000,198000,155500,36.778259,-119.417931
+Big Data Engineer,3.4,Allstate,"Irving, TX",Large,64000,124000,94000,31.0,-100.0
+Big Data Engineer,3.4,Allstate,"Irving, TX",Large,66000,113000,89500,31.0,-100.0
+Big Data Engineer,3.8,Tata Consultancy Services,"Irving, TX",Large,66000,113000,89500,31.0,-100.0
+Big Data Engineer,4.3,"Onica, a Rackspace Company","Dallas, TX",Medium,66000,113000,89500,31.0,-100.0
+Big Data Engineer,1.0,Elan Partners,"Dallas, TX",Small,105000,110000,107500,31.0,-100.0
+Big Data Engineer,3.7,"DataSys Consulting and Software, Inc","Dallas, TX",Small,105000,110000,107500,31.0,-100.0
+Big Data Engineer,3.9,Alt Shift USA,"Dallas, TX",Small,105000,110000,107500,31.0,-100.0
+Big Data Engineer,4.6,Tiger Analytics,"Dallas, TX",Medium,105000,110000,107500,31.0,-100.0
+Big Data Engineer,3.4,Ksquare Solutions INC.,"Dallas, TX",Small,105000,110000,107500,31.0,-100.0
+Big Data Engineer,3.7,Tata Consultancy Services (North America),"Irving, TX",Large,60000,109000,84500,31.0,-100.0
+Big Data Engineer,-1.0,datasysamerica,"Dallas, TX",Unknown,60000,109000,84500,31.0,-100.0
+Big Data Engineer,-1.0,CloudPoint Systems inc.,"Dallas, TX",Small,60000,109000,84500,31.0,-100.0
+Big Data Engineer,4.4,Tachyon Technologies LLC,"Irving, TX",Medium,60000,109000,84500,31.0,-100.0
+Big Data Engineer,2.4,Frontier Communications,"Allen, TX",Large,60000,109000,84500,31.0,-100.0
+Big Data Engineer,3.9,Horizontal Talent,"Plano, TX",Large,74000,134000,104000,31.0,-100.0
+Big Data Engineer,3.8,Enterprise Solutions Inc,"Irving, TX",Small,74000,134000,104000,31.0,-100.0
+Big Data Engineer,3.9,Diverse Lynx,"Irving, TX",Large,74000,134000,104000,31.0,-100.0
+Big Data Engineer,4.4,InfoVision,"Plano, TX",Large,110000,188000,149000,31.0,-100.0
+Big Data Engineer,4.3,SLiQ Information Technologies,"Plano, TX",Small,75000,135000,105000,31.0,-100.0
+Big Data Engineer,-1.0,zacxo,"Lewisville, TX",Small,75000,135000,105000,31.0,-100.0
+Big Data Engineer,4.1,Plume,"Palo Alto, CA",Small,91000,166000,128500,36.778259,-119.417931
+Big Data Engineer,4.5,SpringML,"Pleasanton, CA",Small,91000,166000,128500,36.778259,-119.417931
+Big Data Engineer,4.8,Zoom,"San Jose, CA",Large,108000,199000,153500,36.778259,-119.417931
+Big Data Engineer,4.1,Plume,"Palo Alto, CA",Small,77000,145000,111000,36.778259,-119.417931
+Big Data Engineer,4.5,SpringML,"Pleasanton, CA",Small,54000,103000,78500,36.778259,-119.417931
+Big Data Engineer,4.2,Nextgen Technologies,"San Jose, CA",Small,108000,127000,117500,36.778259,-119.417931
+Big Data Engineer,3.9,Deloitte,"San Jose, CA",Large,108000,127000,117500,36.778259,-119.417931
+Big Data Engineer,4.7,Qstride,"Sunnyvale, CA",Small,100000,181000,140500,36.778259,-119.417931
+Big Data Engineer,-1.0,"CESUSA, INC.","San Jose, CA",Unknown,100000,181000,140500,36.778259,-119.417931
+Big Data Engineer,4.5,SpringML,"Austin, TX",Small,88000,163000,125500,31.0,-100.0
+Big Data Engineer,4.5,SpringML,"Austin, TX",Small,79000,96000,87500,31.0,-100.0
+Big Data Engineer,4.3,"Onica, a Rackspace Company","Austin, TX",Medium,79000,96000,87500,31.0,-100.0
+Big Data Engineer,4.0,CYNET SYSTEMS,"Austin, TX",Large,52000,85000,68500,31.0,-100.0
+Big Data Engineer,4.0,Lorven Technologies Inc,"Austin, TX",Small,67000,126000,96500,31.0,-100.0
+Big Data Engineer,3.4,Allstate,"Irving, TX",Large,65000,120000,92500,31.0,-100.0
+Big Data Engineer,3.8,Tata Consultancy Services,"Irving, TX",Large,65000,120000,92500,31.0,-100.0
+Big Data Engineer,3.7,Tata Consultancy Services (North America),"Irving, TX",Large,60000,109000,84500,31.0,-100.0
+Big Data Engineer,4.4,Tachyon Technologies LLC,"Irving, TX",Medium,60000,109000,84500,31.0,-100.0
+Big Data Engineer,-1.0,Node.Digital LLC,"Arlington, TX",Small,60000,109000,84500,31.0,-100.0
+Big Data Engineer,3.8,Enterprise Solutions Inc,"Irving, TX",Small,60000,109000,84500,31.0,-100.0
+Big Data Engineer,3.9,Diverse Lynx,"Irving, TX",Large,30000,60000,45000,31.0,-100.0
