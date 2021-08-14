@@ -5,6 +5,10 @@
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
+[Milestone 1](analysis/milestone1.ipynb)
+[Milestone 2&3 Research Analysis](analysis/EDA&Research Analysis Notebook.ipynb)
+![Milestone 4](images/Dashboard_Image.png)
+
 ## Describe your topic/interest in about 150-200 words
 
 I am interested in this dataset because I would like to explore the US job market in the data engineering field.
