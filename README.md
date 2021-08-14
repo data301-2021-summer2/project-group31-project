@@ -9,6 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 [Milestone_2&3_Research_Analysis](analysis/EDA&Research_Analysis_Notebook.ipynb)
 
+Dashboard
 ![Milestone 4](images/Dashboard_Image.png)
 
 ## Describe your topic/interest in about 150-200 words
